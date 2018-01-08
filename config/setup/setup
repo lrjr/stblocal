@@ -1,0 +1,10 @@
+#!/bin/bash -ex
+
+# Install Dutch language support for OCR:
+sudo DEBIAN_FRONTEND=noninteractive apt-get install -y \
+    python-googleapi \
+    python-tz \
+    tesseract-ocr-nld \
+    python-yaml
+
+export PYTHONPATH=$PYTHONPATH:/tests/mapper:/tests/stepresolver:/tests/mainrunner:/tests/steps:/tests/testcases

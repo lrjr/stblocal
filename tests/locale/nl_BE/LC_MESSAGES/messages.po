@@ -1,0 +1,3583 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the NTE-LTC package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: NTE-LTC\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-15 12:14+0100\n"
+"PO-Revision-Date: 2017-04-05 11:59+0000\n"
+"Last-Translator: Veronique DAGNELIE <Veronique.DAGNELIE@proximus.com>\n"
+"Language-Team: Dutch (Belgium/Flemish) <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_BE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#, python-brace-format
+msgid "${instruction_begin} "
+msgstr "${instruction_begin}"
+
+#, python-brace-format
+msgid "${title} ${lang}"
+msgstr "${title} ${lang}"
+
+#, python-format
+msgid "%(count)d ITEM"
+msgstr "%(count)d item(s)"
+
+#, python-format
+msgid "%(count)d ITEMS"
+msgstr "%(count)d items"
+
+#, python-format
+msgid "%(count)d RESULT"
+msgstr "%(count)d resultaat"
+
+#, python-format
+msgid "%(eps-kept)s episodes"
+msgstr "%(eps-kept)s"
+
+#, python-format
+msgid "%(post-margin)s min post-recording time"
+msgstr "%(post-margin)s min. na afloop "
+
+#, python-format
+msgid "%(pre-margin)s min pre-recording time"
+msgstr "%(pre-margin)s min. voor aanvang"
+
+#, python-format
+msgid "%(version_code)s version"
+msgstr "%(version_code)s versie"
+
+msgid "%a %b %d at "
+msgstr "%a %b %d om"
+
+msgid "%a %d %b"
+msgstr "%a %d %b"
+
+msgid "%a %d %b %Y"
+msgstr "%a %d %b %Y"
+
+msgid "%a %d %b at "
+msgstr "%a %d %b om "
+
+msgid "%d %B %Y"
+msgstr "%d %B %Y"
+
+#, python-format
+msgid "%d CONFLICT"
+msgstr "%d conflict(en)"
+
+#, python-format
+msgid "%d CONFLICTS"
+msgstr "%d conflicten"
+
+#, python-format
+msgid "%d ITEM"
+msgstr "%d item(s)"
+
+#, python-format
+msgid "%d ITEMS"
+msgstr "%d items"
+
+#, python-format
+msgid "%d RECORDING"
+msgstr "%d item(s)"
+
+#, python-format
+msgid "%d RECORDINGS"
+msgstr "%d items"
+
+#, python-format
+msgid "%d min"
+msgstr "%d min."
+
+#, python-format
+msgid "%d sec"
+msgstr "%d sec."
+
+msgid "%d/%m/%Y"
+msgstr "%d/%m/%Y"
+
+msgid ""
+"'My personal informations' allows you to save your data contact on your "
+"Belgacom TV decoder"
+msgstr ""
+"'Mijn gegevens' laat u toe om uw persoonlijke data te bewaren op uw decoder."
+
+msgid ", "
+msgstr ", "
+
+msgid "1 - CABLE"
+msgstr "1 - kabel"
+
+msgid "1 hour"
+msgstr "1 uur"
+
+msgid "1 minute"
+msgstr "1 min."
+
+msgid "15 minutes"
+msgstr "15 min."
+
+msgid "2 - WIRELESS"
+msgstr "2 - draadloos"
+
+msgid "2 hours"
+msgstr "2 uur"
+
+msgid "3 hours"
+msgstr "3 uur"
+
+msgid "30 days"
+msgstr "min 60 dagen"
+
+msgid "4 hours"
+msgstr "4 uur"
+
+msgid "5 hours"
+msgstr "5 uur"
+
+msgid "5 minutes"
+msgstr "5 min."
+
+msgid "6 hours"
+msgstr "6 uur"
+
+msgid "7 hours"
+msgstr "7 uur"
+
+msgid "8 hours"
+msgstr "8 uur"
+
+msgid "9 hours"
+msgstr "9 uur"
+
+msgid "A PROBLEM OCCURRED"
+msgstr "Onverwacht probleem ..."
+
+msgid "APP ERROR"
+msgstr "Er is een fout opgetreden"
+
+msgid "PLEASE TRY AGAIN APP LAUNCH"
+msgstr "Opnieuw proberen"
+
+msgid ""
+"A problem has occured.\n"
+"\n"
+"Please select your language to continue:"
+msgstr ""
+"Onverwacht probleem ...\n"
+"\n"
+"Selecteer uw taal om verder te gaan"
+
+msgid ""
+"A problem has occured.\n"
+"Un problème est survenu.\n"
+"Een probleem heeft zich voorgedaan.\n"
+"Es gibt ein problem."
+msgstr ""
+"A problem has occured.\n"
+"Un problème est survenu.\n"
+"Onverwacht probleem.\n"
+"Es gibt ein problem."
+
+msgid ""
+"A recording will start on another channel, and you will zap on the channel "
+"of the recording, do you want to continue?"
+msgstr ""
+"Er start een opname op een ander kanaal en u wilt zappen naar het kanaal van "
+"de opname. Wenst u verder te gaan?"
+
+msgid "ACCOUNT"
+msgstr "mijn account"
+
+msgid "ACTIVATE"
+msgstr "activeren"
+
+msgid "ACTIVATE HD"
+msgstr "HD activeren"
+
+msgid "ALL"
+msgstr "alles"
+
+msgid "ALL RECORDINGS"
+msgstr "opnames"
+
+msgid "APPLICATIONS"
+msgstr "mijn apps"
+
+msgid "ARABIC"
+msgstr "AR"
+
+msgid "ASK PIN CODE FOR RENTING"
+msgstr "aankooppincode activeren"
+
+msgid "ASSIGN FAILED"
+msgstr "opdracht mislukt"
+
+msgid "AUDIO"
+msgstr "audio"
+
+msgid "AUDIO LANGUAGE"
+msgstr "audio-taal"
+
+msgid "Activate parental control"
+msgstr "activeren van het kinderslot"
+
+msgid "Advertising"
+msgstr "reclame"
+
+#, python-format
+msgid "Age rating warning message (%(age_rating)s)"
+msgstr "Niet aanbevolen onder %(age_rating)s jaar"
+
+msgid "All matches"
+msgstr "alle wedstrijden"
+
+msgid "Allow TV content rated"
+msgstr "voor tv-programma’s"
+
+msgid "Allow VOD content rated"
+msgstr "voor het huren van films"
+
+msgid "Allow not rated content"
+msgstr "toon films zonder info"
+
+msgid "An email address must contain a single @"
+msgstr "Een e-mailadres moet een @ bevatten."
+
+msgid ""
+"An error in the system has occurred. Please reboot your box only when you "
+"are completely blocked. If a reboot does not solve your problem, please call "
+"the Proximus helpdesk."
+msgstr ""
+"Onverwachte fout … Als je decoder niet meer reageert, schakel hem even uit "
+"en daarna weer aan. Lukt het nog niet? Bel 0800 22 800."
+
+msgid "An unexcepted error occured, please try again."
+msgstr "Onverwachte fout. Probeer opnieuw."
+
+msgid "An unexpected error occured, please try again."
+msgstr "Onverwachte fout. Probeer opnieuw. "
+
+msgid "Apr"
+msgstr "apr"
+
+msgid "April"
+msgstr "april"
+
+msgid "Arabic"
+msgstr "AR"
+
+msgid "Are you sure you want to cancel recording?"
+msgstr "Bent u zeker dat u de opname wilt annuleren?"
+
+msgid "Are you sure you want to cancel series recording?"
+msgstr "Bent u zeker dat u de serieopname wilt annuleren?"
+
+msgid "Are you sure you want to create a reminder?"
+msgstr "Wenst u een herinnering in te stellen?"
+
+msgid "Are you sure you want to delete recording?"
+msgstr "Bent u zeker dat u de opname wilt wissen?"
+
+msgid "Are you sure you want to delete the reminder?"
+msgstr "Wenst u de herinnering te wissen?"
+
+msgid "Are you sure you want to stop recording?"
+msgstr "Bent u zeker dat u de opname wilt stoppen?"
+
+msgid "Aug"
+msgstr "aug"
+
+msgid "August"
+msgstr "augustus"
+
+msgid "Auto"
+msgstr "auto"
+
+msgid "Automatic conflict resolution"
+msgstr "conflict automatisch oplossen"
+
+msgid "BACK"
+msgstr "terug"
+
+msgid "BACK TO LIVE"
+msgstr "terug naar live"
+
+msgid "BELGACOM CHOICES"
+msgstr "niet te missen"
+
+msgid "BLACK BARS"
+msgstr "schermranden"
+
+msgid "BOOKMARK"
+msgstr "toevoegen aan mijn favorieten"
+
+msgid "BOOKMARKS"
+msgstr "mijn favorieten"
+
+msgid "Bedroom"
+msgstr "slaapkamer"
+
+msgid "Belgacom line number :"
+msgstr "Proximus-lijnnummer:"
+
+msgid "CANCEL"
+msgstr "annuleren"
+
+msgid "CANCEL BOOKMARK"
+msgstr "favorieten verwijderen"
+
+msgid "CANCEL EPISODE RECORDING"
+msgstr "opname afleveringen annuleren"
+
+msgid "CANCEL RECORDING"
+msgstr "opname annuleren"
+
+msgid "CANCEL SERIES RECORDING"
+msgstr "serieopname annuleren"
+
+msgid "CANCEL THIS RECORDING"
+msgstr "deze opname annuleren"
+
+msgid "CATALOGUE"
+msgstr "taal van de shop"
+
+msgid "CHANGE KEYWORD"
+msgstr "verander trefwoord"
+
+msgid "CHANGE YOUR STB NAME"
+msgstr "naam decoder wijzigen"
+
+msgid "CHANNEL RENUMBERING"
+msgstr "zenders hernummeren"
+
+msgid "CHECK THE LINK TO THE WIFI"
+msgstr "geen verbinding met het netwerk"
+
+msgid "CLOSE"
+msgstr "sluiten"
+
+msgid "COMPANION DEVICE REGISTRATION"
+msgstr "gekoppelde tablets en smartphones"
+
+msgid "CONFIGURE LATER"
+msgstr "later instellen"
+
+msgid "CONFIGURE NOW"
+msgstr "nu instellen"
+
+msgid "CONFLICT"
+msgstr "conflict"
+
+msgid "CONFLICTS"
+msgstr "conflicten"
+
+msgid "CONNECT YOUR STB TO THE BELGACOM NETWORK"
+msgstr "verbind uw decoder met de modem"
+
+msgid "CONNECT YOUR STB TO YOUR BBOX"
+msgstr "draadloze verbinding"
+
+msgid "CONNECTION GENIUS"
+msgstr "genius verbinding"
+
+msgid "CONNECTION PROBLEM"
+msgstr "verbindingsprobleem"
+
+msgid "CONTINUE"
+msgstr "verdergaan"
+
+msgid "CONTINUE IN ENGLISH"
+msgstr "continue in English"
+
+msgid "CONTINUER EN FRANCAIS"
+msgstr "continuer en francais"
+
+msgid "COOKIES MANAGEMENT"
+msgstr "cookies beheren"
+
+msgid "CUTV IS ON AND HAS BEEN INACTIVE FOR 4 HOURS : RETURN TO LIVE ?"
+msgstr "U kijkt al 4 uur via TV Replay. Opnieuw live kijken? "
+
+msgid "Calendar per league"
+msgstr "kalender per liga"
+
+msgid "Casting"
+msgstr "acteurs"
+
+msgid "Catchup"
+msgstr "gisteren"
+
+msgid "Check if your STB is connected via the wireless system."
+msgstr "Controleer of uw decoder verbonden is met het draadloze netwerk."
+
+msgid "Check if your STB is correctly connected to your modem."
+msgstr "Controleer of uw decoder correct verbonden is met uw modem."
+
+msgid ""
+"Check the connection of the modem to the telephone line and its "
+"synchronisation."
+msgstr ""
+"Controleer of uw modem correct verbonden is met de telefoonlijn en of het "
+"DSL-lampje continu brandt."
+
+msgid "Choose your default language"
+msgstr "kies uw taal."
+
+msgid "Choose your new STB name"
+msgstr "Kies een naam voor uw decoder."
+
+msgid "Choose your new rate :"
+msgstr "Kies uw nieuwe score"
+
+msgid "Choose your option"
+msgstr "Kies uw optie."
+
+msgid ""
+"Click on <b>configure</b> to start the procedure to connect your RCU "
+"wireless to your proximus decoder"
+msgstr "Kies <b>nu instellen</b> om....."
+
+msgid "Conflict Resolution"
+msgstr "conflictoplossing"
+
+msgid "Connection successfully completed !"
+msgstr "De verbinding is succesvol tot stand gebracht!"
+
+msgid "Consumption of your Internet Data Plan"
+msgstr "internetverbruik"
+
+msgid "DELAY"
+msgstr "automatische sluimerstand"
+
+msgid "DELETE EPISODE RECORDING"
+msgstr "annuleer opname aflevering "
+
+msgid "DELETE RECORDING"
+msgstr "opname wissen"
+
+msgid "DELETE SERIES RECORDING"
+msgstr "annuleer de serieopname"
+
+msgid "DETAILS"
+msgstr "meer info"
+
+msgid "DEVICE MANAGEMENT"
+msgstr "beheer van de toestellen "
+
+msgid "DISABLE"
+msgstr "deactiveren"
+
+msgid "DO NOT REMIND ME"
+msgstr "mij er niet meer aan herinneren"
+
+msgid "DOWNLOADING of the software update in progress."
+msgstr "Download van de software-update bezig."
+
+msgid "DUTCH"
+msgstr "NL"
+
+msgid "Deactivated"
+msgstr "gedeactiveerd"
+
+msgid "Dec"
+msgstr "dec"
+
+msgid "December"
+msgstr "december"
+
+msgid "Decoder 1"
+msgstr "decoder 1"
+
+msgid "Decoder 2"
+msgstr "decoder 2"
+
+msgid "Decoder 3"
+msgstr "decoder 3"
+
+msgid "Decoder 4"
+msgstr "decoder 4"
+
+msgid "Delete"
+msgstr "wissen"
+
+msgid "Delete if disk full"
+msgstr "wissen indien schijf vol"
+
+msgid "Device can't be unpaired"
+msgstr "Het toestel kan niet ontkoppeld worden."
+
+msgid "Did you connected your STB to the modem via cable or wireless ?"
+msgstr "Hoe hebt u de decoder met de modem verbonden?"
+
+msgid "Director"
+msgstr "regisseur"
+
+msgid "Do you really want to delete this contact?"
+msgstr "Wenst u het contact te wissen?"
+
+msgid "Do you really want to stop it?"
+msgstr "bent u zeker dat u wilt stoppen?"
+
+msgid "Do you want to add this item to your wishlist ?"
+msgstr "Wilt u iets toevoegen aan uw verlanglijst?"
+
+msgid "Do you want to change it ?"
+msgstr "Wilt u dit veranderen?"
+
+msgid "Do you want to desactivate it ?"
+msgstr "Wilt u het deactiveren?"
+
+msgid "Do you want to disable the free personalised TV services ?"
+msgstr "Ben je zeker dat je de aanbevelingsdienst wil deactiveren?"
+
+msgid "Do you want to erase all cookies ?"
+msgstr "Wilt u alle cookies wissen?"
+
+msgid "Do you want to remove this item from your wishlist ?"
+msgstr "Wenst u dit item te verwijderen uit van uw verlanglijst?"
+
+msgid "Dutch"
+msgstr "NL"
+
+msgid "Dutch version"
+msgstr "Nederlandstalige versie"
+
+msgid "ECO"
+msgstr "eco"
+
+msgid "EMAIL ERROR"
+msgstr "e-mailfout"
+
+msgid "ENGLISH"
+msgstr "EN"
+
+msgid "ERROR"
+msgstr "fout"
+
+msgid "ESN"
+msgstr "ESN"
+
+msgid "EXIT POPUP"
+msgstr "sluiten"
+
+msgid "English"
+msgstr "EN"
+
+msgid "English version"
+msgstr "Engelstalige versie"
+
+msgid "Enter again your new purchase PIN code"
+msgstr "Geef uw aankooppincode opnieuw in."
+
+msgid "Enter again your new system PIN code"
+msgstr "Geef uw kinderslotpincode opnieuw in."
+
+msgid "Entertainment"
+msgstr "entertainment"
+
+#, python-format
+msgid "Error code=%r"
+msgstr "fout code=%r"
+
+#, python-format
+msgid "Error number: %(code)s"
+msgstr "fout code: %(code)s"
+
+msgid "F"
+msgstr "V"
+
+msgid "FAILED TO LAUNCH THE TV PLAYER"
+msgstr "Onverwachte fout. Probeer opnieuw."
+
+msgid "FAVOURITE CHANNEL"
+msgstr "favoriete zenders"
+
+msgid "FINISH"
+msgstr "klaar"
+
+msgid "FIX ALL FUTURE  CONFLICT FOR THIS RECORDING"
+msgstr "alle conflicten voor deze serie oplossen."
+
+msgid "FIX THIS CONFLICT AUTOMATICALLY"
+msgstr "dit conflict automatisch oplossen"
+
+msgid "FOOTBALL CALENDAR"
+msgstr "voetbalkalender "
+
+msgid "FOOTBALL CHANNEL"
+msgstr "voetbalzenders"
+
+msgid "FORMAT"
+msgstr "formaat"
+
+msgid "FRENCH"
+msgstr "FR"
+
+msgid "FRIDAY"
+msgstr "vrijdag"
+
+msgid "FROM_START"
+msgstr "herbeginnen"
+
+msgid "Failed to assign the STB: ACCOUNT LOCKED PIN TRY OVERFLOW"
+msgstr ""
+"De decoder kan niet aan de gebruiker toegevoegd worden: account geblokkeerd."
+
+msgid "Feb"
+msgstr "feb"
+
+msgid "February"
+msgstr "februari"
+
+msgid "Five wrong pin code."
+msgstr "Vijf verkeerde pogingen voor uw pincode."
+
+msgid ""
+"For an unknown reason your STB is not able to contact Belgacom network, "
+"click on \"I need help\" to contact the helpdesk"
+msgstr ""
+"Uw decoder kan geen contact maken met het Proximus TV-netwerk. Selecteer "
+"\"hulp nodig\" om onze helpdesk te contacteren."
+
+msgid ""
+"For more infos about the license of the software supporting the Belgacom TV "
+"interface : www.belgacom.be/tvcopyright"
+msgstr ""
+"Voor meer info over de licentie van de software voor Proximus TV : www."
+"proximus.be/tvcopyright"
+
+msgid "French"
+msgstr "FR"
+
+msgid "French version"
+msgstr "Franstalige versie"
+
+msgid "Fri"
+msgstr "vr"
+
+msgid "Friday"
+msgstr "vrijdag"
+
+msgid "GERMAN"
+msgstr "DE"
+
+msgid "GREEK"
+msgstr "GR"
+
+msgid "GRID"
+msgstr "tv-gids"
+
+msgid "Genre"
+msgstr "genre"
+
+msgid "German"
+msgstr "DE"
+
+msgid "German version"
+msgstr "Duitstalige versie"
+
+msgid "Great! Your remote control is now paired wireless"
+msgstr "De afstandsbediening is nu aangesloten op deze decoder. "
+
+msgid "Greek"
+msgstr "GR"
+
+msgid "HDMI CEC AUTO SOURCE"
+msgstr "automatische HDMI selectie"
+
+msgid "HELP"
+msgstr "help"
+
+msgid "HOW TO CHECK THE MODEM"
+msgstr "controleer de modem"
+
+msgid "HOW TO CHECK WIRELESS LINK"
+msgstr "controleer de draadloze verbinding"
+
+msgid "HW version"
+msgstr "hardware-versie"
+
+msgid "Here you can configure your default recording settings"
+msgstr "Hier kunt u uw opnamevoorkeuren instellen.  "
+
+msgid "Here you can find all Svod passes you havesubscribed"
+msgstr "   "
+
+msgid "Here you can find all planned recordings"
+msgstr "  "
+
+msgid "Here you can find all purchased items"
+msgstr "   "
+
+msgid "Here you can find all recordings"
+msgstr "   "
+
+msgid "Here you can find all reminders"
+msgstr "   "
+
+msgid "Here you can see all recording conflicts"
+msgstr "   "
+
+msgid "Historic of your searches"
+msgstr "historiek van mijn opzoekingen"
+
+msgid "Home Office"
+msgstr "bureau"
+
+msgid "How did you connect your STB to your modem ?"
+msgstr "Hoe hebt u de decoder met de modem verbonden?"
+
+msgid "I DISLIKE"
+msgstr "Vind ik niet leuk."
+
+msgid "I FORGOT MY PERSONAL PIN CODE"
+msgstr "Ik ben mijn persoonlijke pincode vergeten."
+
+msgid "I LIKE"
+msgstr "Vind ik leuk"
+
+msgid "I NEED HELP"
+msgstr "hulp nodig"
+
+msgid "IMAGE"
+msgstr "beeld"
+
+msgid "IML ASKS FOR PARENTAL PIN"
+msgstr "pincode kinderslot"
+
+msgid "IML ASKS FOR PURCHASE PIN"
+msgstr "aankooppincode"
+
+msgid "IML ASKS FOR SYSTEM PIN"
+msgstr "pincode kinderslot"
+
+msgid "IML ASKS FOR USER PIN"
+msgstr "pincode gebruiker"
+
+msgid "INFOS ON PASS"
+msgstr "info over de Pass'en"
+
+msgid "IP address"
+msgstr "IP-adres"
+
+msgid "ISOLATE MODE"
+msgstr "verbindingsprobleem"
+
+msgid "ITALIAN"
+msgstr "IT"
+
+msgid "If the data is correct, select confirm."
+msgstr "Bevestig als de gegevens correct zijn."
+
+msgid "Impossible to launch the TV player."
+msgstr "Onverwachte fout. Probeer opnieuw."
+
+msgid "In your subscription"
+msgstr "in mijn abonnement"
+
+msgid "In-depth"
+msgstr "sluimerstand"
+
+msgid "Invalid domain."
+msgstr "Ongeldige ingave"
+
+msgid "Invalid local part."
+msgstr "De tekst voor de @ is niet correct ingegeven."
+
+msgid ""
+"Investigate the back of your modem and check if the ethernet cable is "
+"connected to the right port."
+msgstr ""
+"Controleer of de ethernetkabel achteraan uw modem in de juiste poort zit."
+
+msgid "It cannot be empty."
+msgstr "Vul iets in."
+
+msgid "It cannot contain consecutive dots."
+msgstr "Gebruik geen achtereenvolgende puntjes."
+
+msgid "It cannot end with a dot."
+msgstr "Eindig niet met een punt."
+
+msgid "It cannot start with a dot."
+msgstr "Begin niet met een punt."
+
+msgid ""
+"It is not possible to record several programs at the same time. Select the "
+"recordings you want to delete and validate."
+msgstr ""
+"Meerdere programma’s tegelijk op de decoder opnemen is niet mogelijk. Kies "
+"één van de volgende opties."
+
+msgid "Italian"
+msgstr "IT"
+
+msgid "Jan"
+msgstr "jan"
+
+msgid "January"
+msgstr "januari"
+
+msgid ""
+"Jinni engine doesn't have enough information to provide you with "
+"recommendations"
+msgstr "We hebben onvoldoende gegevens om aanbevelingen te geven."
+
+msgid "Jul"
+msgstr "jul"
+
+msgid "July"
+msgstr "juli"
+
+msgid "Jun"
+msgstr "jun"
+
+msgid "June"
+msgstr "juni"
+
+msgid "KEYWORD"
+msgstr "zoekterm"
+
+msgid "Kids"
+msgstr "kids"
+
+msgid "Kitchen"
+msgstr "keuken"
+
+msgid "LANGUAGE"
+msgstr "taal"
+
+msgid "LAST SEARCHES"
+msgstr "laatste zoekresultaten"
+
+msgid "LATER ON THIS CHANNEL"
+msgstr "later op deze zender"
+
+msgid "LAUNCH"
+msgstr "Starten"
+
+msgid "LIBRARY_SUBSCRIPTIONS"
+msgstr "mijn Pass’en"
+
+msgid "LICENSE"
+msgstr "licentie"
+
+msgid "LINE NUMBER"
+msgstr "Proximus-lijnnummer"
+
+msgid "LIVE"
+msgstr "nu op tv"
+
+msgid "LOCKED"
+msgstr "vergrendeld"
+
+msgid "Launch netflix"
+msgstr "Netflix starten"
+
+msgid "Lifespan"
+msgstr "bewaring"
+
+msgid "List of all yours STB :"
+msgstr "lijst van al uw decoders:"
+
+msgid "List of of the devices paired with your STB :"
+msgstr "lijst van de toestellen gelinkt aan uw decoder:"
+
+msgid "Listing: no item available"
+msgstr "geen items"
+
+msgid "Listing: no items at this moment, please rate more movies"
+msgstr "beoordeel meer programma's"
+
+msgid "Living room"
+msgstr "woonkamer"
+
+msgid "Locked account."
+msgstr "account geblokkeerd"
+
+msgid "M"
+msgstr "M"
+
+msgid "MODE"
+msgstr "opstartmodus"
+
+msgid "MODIFY NOW"
+msgstr "nu wijzigen"
+
+msgid "MODIFY PURCHASE PIN"
+msgstr "aankooppincode wijzigen"
+
+msgid "MODIFY SYSTEM PIN"
+msgstr "kinderslotpincode wijzigen"
+
+msgid "MONDAY"
+msgstr "maandag"
+
+msgid "MORE INFO"
+msgstr "meer info"
+
+msgid "MOVIES"
+msgstr "films"
+
+msgid "MYMEDIA"
+msgstr "mijn mediabestanden"
+
+msgid "Magazine"
+msgstr "magazine"
+
+msgid "Manual"
+msgstr "manueel"
+
+msgid "Manual conflict resolution"
+msgstr "zelf conflicten oplossen"
+
+msgid "Mar"
+msgstr "mrt"
+
+msgid "March"
+msgstr "maart"
+
+msgid ""
+"Maximum number of decoders is reached. The activation of the new decoder "
+"failed. Please call 0800 9 96 96. After that, you have to power off and on "
+"the decoder to retry the registration."
+msgstr ""
+"U hebt het maximum aantal decoders geïnstalleerd. U kunt geen extra decoder "
+"installeren. Bel 0800 996 96 om de decoders die niet meer in dienst zijn te "
+"verwijderen. Nadien zult u uw andere decoders opnieuw moeten uit- en "
+"aanzetten."
+
+msgid "May"
+msgstr "mei"
+
+msgid "Mon"
+msgstr "ma"
+
+msgid "Monday"
+msgstr "maandag"
+
+msgid "Movies"
+msgstr "films"
+
+msgid "Multiple programs were skipped"
+msgstr "Meerdere programma’s zijn onbeschikbaar."
+
+msgid "Music"
+msgstr "muziek"
+
+msgid "My personal informations"
+msgstr "mijn gegevens"
+
+msgid "MyMedia"
+msgstr "mijn mediabestanden"
+
+msgid "NETFLIX STREAM WARNING"
+msgstr "info verbruik Netflix"
+
+msgid "APPS STREAM WARNING"
+msgstr "info verbruik apps"
+
+msgid "NETWORK"
+msgstr "verbinding met je decoder"
+
+msgid "NEW SEARCH"
+msgstr "nieuwe zoekopdracht"
+
+msgid "NO"
+msgstr "neen"
+
+msgid "NO COMMUNICATION WITH THE BELGACOM NETWORK"
+msgstr "geen verbinding met het netwerk"
+
+msgid "NO CONNECTION TO THE BELGACOM NETWORK"
+msgstr "geen verbinding met het netwerk."
+
+msgid "NO CONNECTION TO THE TELEPHONE LINE"
+msgstr "geen verbinding met het netwerk."
+
+msgid "NO CONTENT IN THIS CATEGORY"
+msgstr "geen items in deze categorie"
+
+msgid "NO TELETEXT"
+msgstr "geen teletekst"
+
+msgid "NO THINKING"
+msgstr "geen mening"
+
+msgid "NO, KEEP IT"
+msgstr "nee, bewaren"
+
+msgid "NO, THANK YOU"
+msgstr "nee, bedankt"
+
+msgid "NORMAL"
+msgstr "normaal"
+
+msgid "NOW"
+msgstr "nu"
+
+msgid "NOW OF THIS CHANNEL"
+msgstr "vandaag op deze zender"
+
+msgid ""
+"NTE for New Television Experience. Do you want to change your System pin "
+"code? "
+msgstr "Wilt u de pincode van het kinderslot veranderen?"
+
+msgid "Never delete"
+msgstr "nooit wissen"
+
+msgid "News"
+msgstr "nieuws"
+
+msgid "No device paired with your STB."
+msgstr "geen toestel gekoppeld met uw decoder"
+
+msgid "No result for this search"
+msgstr "Geen resultaten"
+
+msgid "No similar programs found"
+msgstr "Geen gelijkaardig programma gevonden"
+
+msgid "No subscription detected. Please contact Proximus TV at 0800 33 800 "
+msgstr ""
+"U bent niet op deze dienst geabonneerd. Bel de klantendienst gratis op 0800 "
+"22 800."
+
+msgid "Normal"
+msgstr "normaal"
+
+msgid "Nov"
+msgstr "nov"
+
+msgid "November"
+msgstr "november"
+
+msgid "Number of episodes to be kept"
+msgstr "aantal te behouden afleveringen"
+
+msgid "OFF"
+msgstr "uit"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "ON"
+msgstr "aan"
+
+msgid "OPT-IN"
+msgstr "activeren"
+
+msgid "OPTIONS"
+msgstr "opties"
+
+msgid "OTHER"
+msgstr "andere"
+
+msgid "Oct"
+msgstr "okt"
+
+msgid "October"
+msgstr "oktober"
+
+msgid "Options"
+msgstr "opties"
+
+msgid "Original version"
+msgstr "originele versie"
+
+msgid "Other"
+msgstr "andere"
+
+msgid "PARENTAL CONTROL"
+msgstr "kinderslot"
+
+msgid "PARENTAL CONTROL PARAMETERS"
+msgstr "instellingen kinderslot "
+
+msgid "PASSES"
+msgstr "Pass'en"
+
+msgid "PASSWORD ERROR"
+msgstr "wachtwoordfout"
+
+msgid "PERSON SEARCH"
+msgstr "op naam"
+
+msgid "PIN CODE"
+msgstr "pincode"
+
+msgid "PIN CODE MANAGEMENT"
+msgstr "pincodes beheren"
+
+msgid "PLANNED RECORDINGS"
+msgstr "geplande opnames"
+
+msgid "PLANNER"
+msgstr "mijn planning"
+
+msgid "PLAY TUTORIAL VIDEO"
+msgstr "speel de tutorial video"
+
+msgid "PLEASE TRY AGAIN"
+msgstr "probeer opnieuw"
+
+msgid "POPUP"
+msgstr "keuze bij afsluiten"
+
+msgid "PORTUGUESE"
+msgstr "PT"
+
+msgid "PREFERENCES"
+msgstr "mijn voorkeur"
+
+msgid "PROGRAM BLOCKED"
+msgstr "geblokkeerd programma"
+
+msgid "PROGRAM LOCKED"
+msgstr "geblokkeerd programma"
+
+msgid "PROMO"
+msgstr "in promotie"
+
+msgid "PURCHASE CONFIRMATION"
+msgstr "Bevestiging van je keuze"
+
+msgid "PURCHASE HISTORY"
+msgstr "aankoopgeschiedenis"
+
+msgid "PURCHASE PIN ACTIVATION"
+msgstr "activering van de aankooppincode"
+
+msgid "PURCHASE PIN MODIFICATION"
+msgstr "wijzig aankooppincode"
+
+msgid "PURCHASED ITEMS"
+msgstr "huidige gehuurde items"
+
+msgid ""
+"PVR functionality is not available, you are not subscribed to any PVR "
+"package, please contact Belgacom to subscribe"
+msgstr ""
+"De opnamefunctie is niet beschikbaar met uw abonnement. Contacteer Proximus "
+"om uw abonnement aan te passen."
+
+msgid "Password must be at least 8 characters"
+msgstr "Uw wachtwoord moet minstens 8 karakters bevatten."
+
+msgid "Password must contain at least 1 digit"
+msgstr "Uw wachtwoord moet minstens 1 getal bevatten."
+
+msgid "Password must contain at least 4 letters"
+msgstr "Uw wachtwoord moet minstens 4 letters bevatten."
+
+msgid "Person"
+msgstr "persoon"
+
+msgid "Pin error"
+msgstr "Verkeerde pincode"
+
+msgid ""
+"Please choose to start over from the beginning, or resume from last saved "
+"position"
+msgstr "U bekeek dit programma al gedeeltelijk."
+
+msgid "Please confirm your PIN code"
+msgstr "Bevestig uw pincode. "
+
+msgid "Please confirm your personal pin code"
+msgstr "Bevestig uw persoonlijke pincode. "
+
+msgid "Please confirm your system pin code"
+msgstr "Bevestig uw kinderslotpincode."
+
+msgid "Please enter it again"
+msgstr "geef opnieuw in"
+
+msgid "Please enter the system pin code to unlock"
+msgstr "Voer de pincode van het kinderslot in om te deblokkeren"
+
+msgid "Please enter the system pin code to unlock program"
+msgstr "Geef de kinderslotpincode in om het programma te ontgrendelen."
+
+msgid "Please enter the system pin code to unlock setting"
+msgstr "Geef uw kinderslotpincode in om de instelling te deblokkeren."
+
+msgid "Please enter your account password to reset your Personal PIN."
+msgstr ""
+"Voer het wachtwoord in van uw account om uw persoonlijke pincode opnieuw in "
+"te stellen."
+
+msgid "Please enter your new purchase pin code"
+msgstr "Geef uw nieuwe aankooppincode."
+
+msgid "Please enter your new system pin code"
+msgstr "Geef uw nieuwe kinderslotpincode in."
+
+msgid "Please enter your purchase pin code to confirm your purchase"
+msgstr "Voer je pincode in om te bevestigen."
+
+msgid "Please enter your system pin code"
+msgstr "Geef uw kinderslotpincode in."
+
+msgid "Please enter your system pin code to activate recommendations"
+msgstr "Geef uw kinderslotpincode in om de aanbevelingen te activeren."
+
+msgid "Please enter your system pincode to unlock program"
+msgstr "Geef uw kinderslotpincode in om het programma te deblokkeren."
+
+msgid ""
+"Please indicate if you want the purchase pin to be asked when renting VOD or "
+"APP's"
+msgstr "Duid aan of u de aankooppincode wil gebruiken bij huur of aankoop."
+
+msgid ""
+"Please make sure that your modem is turned on, connected to the phone line "
+"and that the DSL line is synchronised."
+msgstr ""
+"Controleer of uw modem correct met de telefoonlijn verbonden is, en of het "
+"DSL-lampje continu brandt."
+
+msgid "Please reboot."
+msgstr "Herop te starten uw decoder."
+
+msgid "Please restart."
+msgstr "Herstart."
+
+msgid "Please select one language"
+msgstr "Kies een taal."
+
+msgid "Please select the language in which you want to install your system"
+msgstr "Kies de taal voor het menu van Proximus TV."
+
+msgid "Please try again"
+msgstr "Probeer opnieuw."
+
+msgid "Please try again later"
+msgstr "Probeer later opnieuw."
+
+msgid "Please wait"
+msgstr "Even geduld"
+
+msgid "Please wait during loading"
+msgstr "Even geduld ..."
+
+msgid "Portuguese"
+msgstr "PT"
+
+msgid "Preferences management"
+msgstr "voorkeuren beheren"
+
+msgid "Press <b>menu + OK</b> for 5 seconds to link your remote wireless"
+msgstr ""
+"Druk tegelijkertijd gedurende 5 seconden op de toetsen <b>MENU en OK</b> om "
+"de afstandsbediening met je decoder te koppelen in bluetooth."
+
+msgid "Price"
+msgstr "prijs"
+
+msgid "Profile personalization"
+msgstr "profiel personaliseren"
+
+msgid "RADIO ON TV"
+msgstr "radiozenders"
+
+msgid "RATE"
+msgstr "score geven"
+
+msgid "RATE MORE PROGRAMS"
+msgstr "beoordeel meer programma's"
+
+#, python-brace-format
+msgid "RATE PROGRAMS : ${index}"
+msgstr "score programma's:  ${index}"
+
+msgid "RATING"
+msgstr "score"
+
+msgid "RCU RF Pairing error"
+msgstr "fout tijdens het instellen"
+
+msgid "RCU RF pairing message"
+msgstr ""
+"Om over te schakelen naar radiofrequentie richt je de afstandsbediening naar "
+"je decoder en druk je tegelijkertijd gedurende 3 seconden op de toetsen MENU "
+"en OK totdat de knop ‘proximus’ van de afstandsbediening knippert."
+
+msgid "RCU RF pairing screen"
+msgstr "Afstandsbediening en decoder"
+
+msgid "RCU wireless"
+msgstr "afstandsbediening in bluetooth-modus"
+
+msgid "RECOMMENDATIONS"
+msgstr "aanbevelingen"
+
+msgid "RECOMMENDATIONS DESACTIVATION"
+msgstr "aanbevelingen deactiveren"
+
+msgid "RECOMMENDED FOR US"
+msgstr "aanbeveling"
+
+msgid "RECORD"
+msgstr "opname"
+
+msgid "RECORDING SETTINGS"
+msgstr "opnameopties"
+
+msgid "RECORDINGS"
+msgstr "opnames"
+
+msgid "REMINDER"
+msgstr "herinnering"
+
+msgid "REMINDER CONFLICT"
+msgstr "herinnering conflict"
+
+msgid "REMINDER CREATION UNKNOWN ERROR"
+msgstr "Onverwachte fout tijdens de aanmaak van de herinnering."
+
+msgid "REMINDER DELETION UNKNOWN ERROR"
+msgstr "Onverwachte fout tijdens het verwijderen van de herinnering."
+
+msgid "REMINDER UNKNOWN ERROR"
+msgstr "Onverwachte fout.  "
+
+msgid "REMINDERS"
+msgstr "herinneringen"
+
+msgid "REMOTE CONTROL PAIRING"
+msgstr "afstandsbediening "
+
+msgid "REMOTE SERVER ERROR"
+msgstr "serverfout"
+
+#, python-format
+msgid "RENT FOR %(price)s"
+msgstr "huren aan %(price)s"
+
+msgid "RESOLUTION"
+msgstr "resolutie scherm"
+
+msgid "RESULT"
+msgstr "resultaat"
+
+msgid "RESULTS"
+msgstr "resultaten"
+
+msgid "RESUME"
+msgstr "verder kijken  "
+
+msgid "Recording not possible on this channel"
+msgstr "Opnemen is niet mogelijk op deze zender."
+
+msgid "Renumbering"
+msgstr "zenders hernummeren"
+
+msgid "Requested media can't be displayed since no server has it."
+msgstr "Deze media is niet beschikbaar"
+
+msgid "Reset pin code"
+msgstr "pincode opnieuw instellen"
+
+msgid "SATURDAY"
+msgstr "zaterdag"
+
+msgid "SEARCH"
+msgstr "zoeken"
+
+msgid "SEARCH ON TV"
+msgstr "een tv-programma zoeken"
+
+msgid "SEARCH ON TV SERIES"
+msgstr "zoeken op tv-series"
+
+msgid "SECURITY & PRIVACY"
+msgstr "veiligheid & privacy"
+
+msgid "SECURITY / PRIVACY"
+msgstr "veiligheid/privacy"
+
+msgid "SETTINGS"
+msgstr "instellingen"
+
+msgid "SETTINGS BLOCKED"
+msgstr "instellingen geblokkeerd"
+
+msgid "SHOPPING"
+msgstr "shopping"
+
+msgid "SHOW HIDDEN PROGRAM"
+msgstr "toon verborgen programma"
+
+msgid "SHOW INFO BAR"
+msgstr "toon infomenu"
+
+msgid "SIMILAR"
+msgstr "vergelijkbaar"
+
+msgid "SKIP"
+msgstr "overslaan"
+
+msgid "SLEEP MODE"
+msgstr "bespaar energie"
+
+msgid "SNOOZE"
+msgstr "herinner me er later aan"
+
+msgid "SOLVE CONFLICT"
+msgstr "conflict oplossen"
+
+msgid "SOLVE LATER"
+msgstr "later oplossen"
+
+msgid "SOUND"
+msgstr "geluid"
+
+msgid "SPANISH"
+msgstr "ES"
+
+msgid "STANDBY TIMEOUT ERROR"
+msgstr "Time-outfout bij de sluimerstand."
+
+msgid "START"
+msgstr "start"
+
+msgid "STARTUP TIMEOUT ERROR"
+msgstr "Time-outfout bij de start."
+
+msgid "STB IS NOT CONNECTED AT MOMENT"
+msgstr "uw decoder is niet verbonden"
+
+msgid "STB NAME"
+msgstr "naam decoder"
+
+msgid "STB name"
+msgstr "naam decoder"
+
+msgid "STB profile name"
+msgstr "profielnaam decoder"
+
+msgid "STB_1"
+msgstr "decoder 1"
+
+msgid "STB_2"
+msgstr "decoder 2"
+
+msgid "STB_3"
+msgstr "decoder 3"
+
+msgid "STB_4"
+msgstr "decoder 4"
+
+msgid "STB_5"
+msgstr "decoder 5"
+
+msgid "STB_6"
+msgstr "decoder 6"
+
+msgid "STOP RATING"
+msgstr "stoppen met scores geven"
+
+msgid "STOP RECORDING"
+msgstr "opname stoppen"
+
+msgid "STORE OF THIS CHANNEL"
+msgstr "shop van deze zender"
+
+msgid "SUBTITLES"
+msgstr "Ondertitels"
+
+msgid "SUNDAY"
+msgstr "zondag"
+
+msgid "SW version"
+msgstr "software-versie"
+
+msgid "SWAP CHANNEL"
+msgstr "veranderen van zender"
+
+msgid "SYSTEM"
+msgstr "systeem"
+
+msgid "SYSTEM INFO"
+msgstr "systeeminfo"
+
+msgid "SYSTEM INFORMATION"
+msgstr "systeeminfo"
+
+msgid "Click on the arrow at the bottom to see the integer of the number esn"
+msgstr "Om het ESN-nummer volledig te zien, klik op de pijl naar beneden"
+
+msgid "SYSTEM PIN CODE MODIFICATION"
+msgstr "wijzigen kinderslotpincode"
+
+msgid "SYSTEM PIN MODIFICATION"
+msgstr "kinderslotpincode wijzigen"
+
+msgid "Sat"
+msgstr "za"
+
+msgid "Saturday"
+msgstr "zaterdag"
+
+msgid "Search by person"
+msgstr "zoek een acteur of een regisseur"
+
+msgid "Search by title"
+msgstr "zoek een film, een serie of een uitzending"
+
+msgid "Select the devices you want to unpair and validate"
+msgstr ""
+"Selecteer de toestellen die u wenst te ontkoppelen van uw decoder en "
+"bevestig."
+
+msgid "Select this recording to cancel it"
+msgstr "selecteer en druk \"OK\" om te annuleren"
+
+msgid "Select this recording to keep it available for 30 days"
+msgstr "selecteer en 'OK' om k. term. te bewaren"
+
+msgid "Sep"
+msgstr "sep"
+
+msgid "September"
+msgstr "september"
+
+msgid "Serial Number"
+msgstr "serienummer"
+
+msgid "Serie"
+msgstr "serie"
+
+msgid "Settings"
+msgstr "instellingen"
+
+msgid "Show title of blocked content"
+msgstr "toon geblokkeerde titels"
+
+msgid "Spanish"
+msgstr "ES"
+
+msgid "Sports"
+msgstr "sport"
+
+msgid "Sun"
+msgstr "zo"
+
+msgid "Sunday"
+msgstr "zondag"
+
+msgid "System error, try again"
+msgstr "Onverwachte fout. Probeer opnieuw."
+
+msgid "THE STB IS NOT CONNECTED TO THE BELGACOM"
+msgstr "geen verbinding met het netwerk"
+
+msgid "THE STB IS NOT CONNECTED TO YOUR MODEM"
+msgstr "geen verbinding met het netwerk"
+
+msgid "THURSDAY"
+msgstr "donderdag"
+
+msgid "TIMEOUT"
+msgstr "De time-out is bereikt."
+
+msgid "TITLE SEARCH"
+msgstr "per titel"
+
+msgid "TOMORROW"
+msgstr "morgen"
+
+#, python-format
+msgid "TOTAL AMOUNT OF PURCHASE SINCE THE LAST %(days)s DAYS: "
+msgstr "Totaal aankoopbedrag van de laatste %(days)s dagen: "
+
+msgid "TUESDAY"
+msgstr "dinsdag"
+
+msgid "TV ON DEMAND"
+msgstr "tv-op-aanvraag"
+
+msgid "TV REPLAY"
+msgstr "TV Replay"
+
+msgid "TV SERIES"
+msgstr "series"
+
+msgid "Teletext is not available on the current stream"
+msgstr "Teletekst is niet beschikbaar"
+
+msgid "Television"
+msgstr "televisie"
+
+msgid "The DSL connection is not working correctly, click on more info."
+msgstr ""
+"De modem krijgt geen signaal meer. Selecteer \"meer info\" om verder te gaan."
+
+msgid ""
+"The RCU pairing has failed. Please try again or contact the customer care. "
+"To cancel a wrong pairing, you can switch back to \"Infrared\" protocol by "
+"pressing simultaneously on MENU & 1 keys until the RCU blue light start "
+"blinking."
+msgstr ""
+"Het koppelen van de afstandsbediening is mislukt. Probeer opnieuw of "
+"raadpleeg de FAQ's op www.proximus.be."
+
+msgid ""
+"The action you want to do will stop a recording, do you want to continue?"
+msgstr ""
+"Als u deze actie uitvoert, dan stopt de opname die nu aan de gang is. "
+"Doorgaan? "
+
+msgid "The disk of your decoder is full. Please try to delete recordings."
+msgstr "De harde schijf van uw decoder is vol. Probeer opnames te wissen. "
+
+msgid "The email has a problem to the left of the @"
+msgstr "Het e-mailadres is niet correct voor de @"
+
+msgid "The email has a problem to the right of the @"
+msgstr "Het e-mailadres is niet correct na de @"
+
+msgid "The email is empty."
+msgstr "Geef een e-mailadres in."
+
+#, python-format
+msgid "The following fields are empty : %s. Press to modify."
+msgstr "De volgende velden zijn leeg: %s. Druk om ze te wijzigen."
+
+msgid ""
+"The page you are trying to access is not available yet.Error: 404 not found."
+msgstr "Deze informatie is niet beschikbaar. "
+
+msgid ""
+"The password should be at least 8 characters:\n"
+"- at least 4 in \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\"\n"
+"- at least 1 in \"0123456789\"\n"
+"- the remaining 3 are free to choose"
+msgstr ""
+"Het wachtwoord moet minstens 8 karakters bevatten: \n"
+"- ten minste 4 karakters te kiezen uit \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\"\n"
+"- ten minste 1 karakter te kiezen uit \"0123456789\"\n"
+"- de overige 3 karakters zijn vrij te kiezen"
+
+#, python-format
+msgid "The program %(title)s was skipped"
+msgstr "Het programma %(title)s is onbeschikbaar."
+
+msgid ""
+"The program is already scheduled for recording with the following settings"
+msgstr "De opname is al gepland met de volgende opties."
+
+msgid "The recommendation is activated."
+msgstr "De aanbevelingsfunctie is geactiveerd."
+
+msgid "The recommendation is activated.\n"
+msgstr "De aanbevelingsfunctie is geactiveerd. \n"
+
+msgid "The recording is set with your favourite settings"
+msgstr "De opname zal volgens uw voorkeursinstellingen gebeuren"
+
+msgid "The recording is set with your favourites settings"
+msgstr "De opname is ingesteld volgens uw voorkeuren"
+
+msgid "The recording is set with your favourites settings."
+msgstr "De opname werd ingesteld met de volgende parameters:"
+
+msgid ""
+"There is a problem with the registration of your decoder. Please check your "
+"line number and repeat your previous actions. If the problem is not solved, "
+"please contact the Proximus Helpdesk "
+msgstr ""
+"Uw decoder is niet geregistreerd. Kijk het lijnnummer na waarmee de "
+"registratie gebeurd is, en herhaal de vorige acties. Als het probleem "
+"hiermee niet is opgelost, bel dan gratis 0800 22 800."
+
+msgid "There might be a problem with the modem or the wireless link."
+msgstr ""
+"Er is waarschijnlijk een probleem met de modem of het draadloze netwerk."
+
+msgid "This STB name is : "
+msgstr "De naam van deze decoder is:"
+
+msgid ""
+"This program can not be recorded :\n"
+"No Information program"
+msgstr ""
+"Dit programma kan niet worden opgenomen:\n"
+"Geen informatie over het programma"
+
+msgid ""
+"This recording is not available. Either HD is not activated on this STB, or "
+"you are no longer subscribed to this channel"
+msgstr ""
+"Deze opname is niet beschikbaar. De HD is niet geactiveerd, of u bent niet "
+"meer geabonneerd op dit kanaal."
+
+msgid "This recording will be cancelled"
+msgstr "Deze opname wordt geannuleerd."
+
+msgid "This recording will be kept available for 30 days"
+msgstr "korte termijn bewaring"
+
+msgid "This text explains the user how to check his wireless link."
+msgstr "Controleer of de onderstaande lampjes continu branden."
+
+msgid ""
+"This video cannot be rented because of an unexpected error. Please try again "
+"later"
+msgstr ""
+"Deze film kan omwille van een technisch probleem niet gehuurd worden. "
+"Probeer later opnieuw. "
+
+msgid "This video cannot be rented because rental limit is reached."
+msgstr "Dit programma is niet meer beschikbaar."
+
+msgid "Thu"
+msgstr "do"
+
+msgid "Thursday"
+msgstr "donderdag"
+
+msgid "Title"
+msgstr "titel"
+
+msgid ""
+"To enjoy your Adele service, you have to pair your remote control with your "
+"box"
+msgstr ""
+"Je kunt de afstandsbediening via radiofrequenties op de decoder aansluiten. "
+"Dan moet de afstandsbediening niet meer naar de decoder gericht worden om te "
+"zappen."
+
+msgid ""
+"To watch Netflix movies on your Proximus TV, an internet Proximus connection "
+"is required. Watching HD video content with Netflix consume approximately 3 "
+"GB of data per hour."
+msgstr ""
+"Om deze applicatie op Proximus TV te gebruiken, heb je internet van Proximus nodig. "
+"Films in hd-kwaliteit bekijken via een applicatie verbruikt ongeveer 3 GB/uur.  "
+
+msgid ""
+"To watch this application on your Proximus TV, an internet Proximus connection "
+"is required. Watching HD video content with this application consume approximately 3 "
+"GB of data per hour."
+msgstr ""
+"Om deze applicatie op Proximus TV te gebruiken, heb je internet van Proximus nodig. "
+"Films in hd-kwaliteit bekijken via een applicatie verbruikt ongeveer 3 GB/uur.  "
+
+#INF-ALP-S3
+msgid ""
+      "Please wait the app is loading"
+      "\nNext time app will load automatically"
+msgstr ""
+       "Even geduld … de app wordt gedownload en geïnstalleerd."
+       "\nvolgende keer dat je de app opent, zal dit veel sneller gaan. "
+
+msgid "Tip"
+msgstr ""
+
+msgid ""
+"Want to have instant access to all applications click"
+"then on your Proximus application button"
+"remote control"
+msgstr ""
+"Druk op deze knop van je Proximus TV-afstandsbediening "
+"voor een rechtstreekse toegang naar de apps op je tv. "
+"Probeer het nu uit!"
+
+msgid "Too long"
+msgstr "te lang"
+
+msgid ""
+"Trickplay is not available, you are not subscribed to TSTV package, please "
+"contact Belgacom to subscribe"
+msgstr ""
+"De functie ‘snel doorspoelen’ is niet beschikbaar met uw abonnement. "
+"Contacteer Proximus om uw abonnement aan te passen."
+
+msgid "Tue"
+msgstr "di"
+
+msgid "Tuesday"
+msgstr "dinsdag"
+
+msgid "UNABLE TO FIND REMINDER, CAN'T DELETE"
+msgstr "geen herinnering gevonden, onmogelijk te wissen"
+
+msgid "UNDEFINED"
+msgstr "-"
+
+msgid "UNPAIR A DEVICE"
+msgstr "een toestel ontkoppelen"
+
+msgid "UNPAIR DEVICES"
+msgstr "toestellen ontkoppelen"
+
+msgid "UNPAIRING ERROR"
+msgstr "fout bij ontkoppeling van een toestel"
+
+msgid "USERS LANGUAGE"
+msgstr "menu taal"
+
+msgid "Unable to show the program"
+msgstr "Het programma kan niet afgespeeld worden."
+
+msgid "Unable to show the recording"
+msgstr "De opname kan niet afgespeeld worden."
+
+msgid "Undefined"
+msgstr "-"
+
+msgid "Use the digits of your remote control"
+msgstr "Gebruik de cijfers van uw afstandsbediening."
+
+msgid "VALIDATE"
+msgstr "bevestigen"
+
+msgid "VERDER IN HET NEDERLANDS"
+msgstr "verder in het Nederlands"
+
+msgid "VIDEO DEFINITION"
+msgstr "HD activeren of deactiveren"
+
+msgid "VIDEOS"
+msgstr "films, series en tv"
+
+msgid "WARNING"
+msgstr "waarschuwingsperiode"
+
+msgid "WEDNESDAY"
+msgstr "woensdag"
+
+msgid "WEITER IN GERMAN"
+msgstr "weiter in deutch"
+
+msgid "WELCOME TO NTE"
+msgstr "Welkom op Proximus TV"
+
+msgid "WRONG SYSTEM PIN CODE"
+msgstr "verkeerde pincode"
+
+msgid ""
+"We are checking your connectivity\n"
+"We zijn uw verbinding aan het controleren\n"
+"Nous vérifions votre connectivité\n"
+"Wir prüfen lhre Konnektivität"
+msgstr ""
+"We are checking your connectivity\n"
+"We zijn uw verbinding aan het controleren\n"
+"Nous vérifions votre connectivité\n"
+"Wir prüfen lhre Konnektivität"
+
+msgid "Wed"
+msgstr "wo"
+
+msgid "Wednesday"
+msgstr "woensdag"
+
+msgid "What's on TV ?"
+msgstr "   "
+
+msgid "Would you like doctor repair to analyze the problem ?"
+msgstr "Geen verbinding. Wenst u hulp om het probleem op te lossen? "
+
+msgid "Wrong PIN code, please enter it again"
+msgstr "Verkeerde pincode. Probeer opnieuw."
+
+msgid "Wrong password, last try before your account is locked "
+msgstr ""
+"Foutief wachtwoord, laatste poging vooraleer uw account wordt geblokkeerd."
+
+msgid "Wrong password, try again"
+msgstr "Foutief wachtwoord, probeer opnieuw."
+
+msgid "Wrong purchase PIN code, please enter it again"
+msgstr "Verkeerde aankooppincode. Probeer opnieuw."
+
+msgid "Wrong purchase pin code, please try again"
+msgstr "Verkeerde aankooppincode. Probeer opnieuw."
+
+msgid "Wrong system PIN code, please enter it again"
+msgstr "Verkeerde kinderslotpincode. Probeer opnieuw."
+
+msgid "Wrong system pin code, please try again"
+msgstr "Verkeerde kinderslotpincode. Probeer opnieuw."
+
+msgid "YES"
+msgstr "ja"
+
+msgid "YOU NEED HELP"
+msgstr "hulp nodig"
+
+msgid "YOUR SET-TOP BOX WILL AUTOMATICALLY GO INTO SLEEP MODE"
+msgstr "Uw decoder zal automatisch in sluimerstand gaan."
+
+msgid ""
+"You are about to leave a TV stream from the past. Are you sure you want to "
+"continue?"
+msgstr "U kijkt uitgesteld. Wilt u verdergaan ? "
+
+msgid "You are already recording this channel"
+msgstr "Dit programma wordt reeds opgenomen."
+
+msgid ""
+"You are disconnected. Please connect your box\n"
+"and try again."
+msgstr "Geen verbinding. Sluit uw decoder aan en probeer opnieuw. "
+
+msgid ""
+"This Application is currently unavailable"
+"\nplease try again"
+msgstr ""
+"Deze applicatie is momenteel niet beschikbaar.\n"
+"Probeer het later opnieuw."
+
+msgid ""
+"Application launch failed"
+"\nplease try again"
+msgstr ""
+"Applicatie lancering mislukt\n"
+"Veuillez rÃ©essayer"
+
+
+msgid ""
+"You can access different catalogues in the video store.\n"
+"This choice will not change the menu language of any user but only the "
+"content available in the catalogue"
+msgstr ""
+"Deze keuze verandert de taal van het menu niet, maar enkel de content "
+"beschikbaar in de catalogus."
+
+msgid "You can call our Helpdesk at number xxxxxx"
+msgstr "Bel onze helpdesk op het nummer 0800 22 800."
+
+msgid "You can change the Parental Control settings for the family."
+msgstr "Bepaal welke inhoud Proximus TV mag tonen."
+
+msgid "You can change the security parameters."
+msgstr "Veiligheidsinstellingen veranderen."
+
+msgid "You can change the settings."
+msgstr ""
+"Hier vindt u de parameters die u kunt aanpassen alsook alle info over "
+"Proximus TV."
+
+msgid "You can change the system parameters."
+msgstr "Systeeminstellingen veranderen."
+
+msgid "You can manage the pin codes."
+msgstr "Pincodes beheren."
+
+msgid ""
+"You can rent this program or enjoy it with a pass\n"
+"You can have some information on this pass now."
+msgstr ""
+"U kunt dit programma huren en bekijken met een Pass. Meer informatie over "
+"deze Pass. "
+
+msgid "You did not subscribe to this channel"
+msgstr "U hebt geen abonnement voor deze zender."
+
+msgid ""
+"You have rated enough programs, do you want to see your recommendations ?"
+msgstr ""
+"U hebt voldoende programma's beoordeeld. Wilt u uw aanbevelingen zien? "
+
+msgid "You have successfully changed your personal pin code."
+msgstr "Uw persoonlijke pincode is gewijzigd."
+
+msgid ""
+"You have to activate the recommendation to be able to register one or "
+"several user(s) on your TV. By activating recommendations you will be able "
+"to receive personalized recommendations based on what you and your family "
+"have watched on TV during the past month or receive free film "
+"recommendations which correspond to your tastes and preferences.\n"
+"This way you might even discover films you didn't know existed... The more "
+"you use this service, the more closely the recommendations will match your "
+"taste. If you want you can add\n"
+"\n"
+msgstr ""
+"Om aanbevelingen te kunnen krijgen, moet u de dienst activeren. Door scores "
+"te geven aan films uit de op aanvraag-catalogus zult u aanbevelingen voor "
+"films naar uw smaak krijgen. Wie weet ontdekt u op deze manier films waar u "
+"nog niet van gehoord had.\n"
+"U kunt deze gepersonaliseerde tv-dienst altijd stopzetten. Op proximus.be "
+"komt u meer te weten over de bescherming van uw privégegevens. \n"
+
+msgid ""
+"You have to reset your personal pin code by entering the password of you "
+"profile."
+msgstr ""
+"Verander uw persoonlijke pincode door het wachtwoord van uw profiel in te "
+"voeren."
+
+#, python-format
+msgid ""
+"You have to subscribe to %(title)s service to have access to this function."
+msgstr ""
+"U moet een abonnement hebben op %(title)s om toegang te krijgen tot deze "
+"functie."
+
+msgid "You will boot in Isolate Mode"
+msgstr ""
+"Uw decoder kan geen contact maken met het Proximus TV-netwerk. Contacteer "
+"onze helpdesk op 0800 22 800."
+
+msgid "Your PIN codes don't match, please try again"
+msgstr "Uw pincodes komen niet overeen. Probeer het nog eens."
+
+msgid ""
+"Your Proximus decoder is starting up from eco mode To\n"
+"allow a quicker start-up, go to settings/system/stand-by"
+msgstr ""
+
+msgid ""
+"Your STB is probably connected to a wrong port of the modem or to an "
+"unidentified device."
+msgstr ""
+"Uw decoder is waarschijnlijk verkeerd verbonden met de modem, of met een "
+"onbekend toestel."
+
+msgid "Your STB name is : "
+msgstr "De naam van uw decoder is:"
+
+msgid "Your account is locked, you have to go to www.belgacom.be to reset it."
+msgstr ""
+"Uw account is vergrendeld. Surf naar proximus.be om hem opnieuw in te "
+"stellen."
+
+msgid "Your actual rate is : "
+msgstr "Uw huidige score is:"
+
+msgid "Your bandwidth does not allow you to receive HD streams."
+msgstr ""
+"Uw bandbreedte volstaat niet om programma's in hd-kwaliteit te bekijken."
+
+msgid "Your birthdate can't be empty"
+msgstr "Geef uw geboortedatum in."
+
+msgid "Your birthdate day is incorrect"
+msgstr "Uw geboortedag is niet correct."
+
+msgid "Your birthdate month is incorrect"
+msgstr "Uw geboortemaand is niet correct."
+
+msgid "Your birthdate must be in the format DD/MM/YYYY"
+msgstr "Geef uw geboortedatum als volgt in: DD/MM/JJJJ"
+
+msgid "Your birthdate year is incorrect"
+msgstr "Uw geboortejaar is niet correct."
+
+msgid "Your contact can't be added"
+msgstr "Uw gegevens kunnen niet worden toegevoegd."
+
+msgid "Your contact can't be updated"
+msgstr "Uw gegevens kunnen niet worden aangepast."
+
+msgid ""
+"Your content has been successfully purchased. You can now enjoy watching it"
+msgstr "Je kan nu kijken naar je film."
+
+msgid ""
+"Your decoder allows you to receive the HD channel and to rent HD VOD. Do you "
+"want to block the reception of the HD channel and HD VOD in the VOD "
+"catalogue ?"
+msgstr ""
+"Met je decoder kan je zenders ontvangen in hd-kwaliteit en ook films huren "
+"in hd-kwaliteit (hd = hoge definitie)."
+
+msgid "Your email adress in incorrect"
+msgstr "Uw e-mailadres is niet correct."
+
+msgid "Your firstname and your lastname can't be empty"
+msgstr "Geef uw voornaam en familienaam in."
+
+msgid "Your input has not been recognized as a valid URL"
+msgstr "Deze internetlink is niet correct."
+
+msgid "Your new purchase PIN is confirmed"
+msgstr "Uw nieuwe aankooppincode is bevestigd."
+
+msgid "Your new system PIN is confirmed"
+msgstr "Uw nieuwe kinderslotpincode is bevestigd."
+
+msgid ""
+"Your personal recommendations and the existing users and the social "
+"interaction will not be anymore available. You will not be able to add "
+"movies to your bookmarks neither rate the movies you have seen. To know more "
+"about the live privacy, surf on www.belgacom.be"
+msgstr ""
+"Uw persoonlijke aangebevelingen alsook de mogelijkheid om een score toe te "
+"kennen aan films zijn niet meer beschikbaar. Om meer te weten over de "
+"privacyregels, surf naar www.proximus.be"
+
+msgid "Your pin code has been reset."
+msgstr "Uw pincode is opnieuw ingesteld."
+
+msgid "Your pincode must have exactly 4 digits"
+msgstr "Uw pincode moet exact 4 cijfers bevatten."
+
+msgid ""
+"Your recording can not be scheduled because there is not enough space on the "
+"disk."
+msgstr ""
+"Uw opname kan niet worden uitgevoerd omdat er onvoldoende schijfruimte over "
+"is."
+
+msgid "Your remote control could not be paired wireless"
+msgstr ""
+"Het koppelen van de afstandsbediening is mislukt. Probeer opnieuw of "
+"raadpleeg de FAQ's op www.proximus.be."
+
+msgid "Your remote control is now paired"
+msgstr ""
+"De afstandsbediening is nu aangesloten op deze decoder. \n"
+"Radiofrequentie opnieuw uitschakelen? Druk gelijktijdig op MENU en toets '1' "
+"tot het blauwe LED-lichtje knippert.   "
+
+msgid "Your system pin code is confirmed"
+msgstr "Uw kinderslotpincode is bevestigd."
+
+msgid "[#77577] help description"
+msgstr ""
+"Hulp nodig?\n"
+"U vindt onze FAQ's op www.proximus.be/newTV\n"
+"\n"
+"Bekijk ook onze demo's over het gebruik van Proximus TV."
+
+msgid "[#77577] help service name"
+msgstr "help"
+
+msgid "[#77577] help title"
+msgstr "help en demo's"
+
+msgid "[#77577] loading"
+msgstr "Even geduld"
+
+#, python-format
+msgid "[BREADCRUMB]%(weekday)s %(day)s %(month)s"
+msgstr "%(weekday)s %(day)s %(month)s"
+
+msgid "[DR_REPAIR/FAILED_WPS] MESSAGE"
+msgstr ""
+
+msgid "[DR_REPAIR/FAILED_WPS] TITLE"
+msgstr ""
+
+msgid "[DR_REPAIR/NETWORK_SETUP] MESSAGE"
+msgstr ""
+
+msgid "[DR_REPAIR/NETWORK_SETUP] TITLE"
+msgstr ""
+
+#, python-format
+msgid "[DR_REPAIR/WAIT_WIFI] MESSAGE [%d seconds]"
+msgstr ""
+
+msgid "[DR_REPAIR/WAIT_WIFI] TITLE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/1] ACTION 1 (LED NOT BLINKING)"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/1] MESSAGE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/1] TITLE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/1_1] MESSAGE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/2] ACTION 1 (ALREADY_REBOOT)"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/2] ACTION 2 (LED BLINKING)"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/2] MESSAGE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/2] TITLE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/2_1] MESSAGE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/2_1] TITLE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_FAILED] ACTION REBOOT"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_TOO_WEAK] MESSAGE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_TOO_WEAK] TITLE"
+msgstr ""
+
+msgid "[FI SETTINGS] stand-by warning"
+msgstr "meldingen"
+
+msgid "[FI STANDBY SETTINGS] Choose your preferred options"
+msgstr "Je decoder is vooraf ingesteld, druk op OK om verder te gaan."
+
+msgid "[FI STANDBY SETTINGS] help text <b>eco</b> mode"
+msgstr "Beperk het verbruik van je decoder in sluimerstand "
+"tot 0,05 watt/h door voor de eco-modus te kiezen."
+"Het opstarten duurt dan wel langer."
+
+msgid "[FI STANDBY SETTINGS] help text <b>normal</b> mode"
+msgstr "Beperk het verbruik van je decoder in sluimerstand "
+"tot 0,05 watt/h door voor de eco-modus te kiezen."
+"Het opstarten duurt dan wel langer."
+
+msgid "[FI STANDBY SETTINGS] stand-by mode"
+msgstr "opstartmodus"
+
+msgid "[FI STANDBY SETTINGS] title"
+msgstr "bespaar energie"
+
+msgid "[HOTKEY PRESS] CUTV/TSTV exit notification message"
+msgstr "U kijkt uitgesteld. Bent u zeker dat u dit wilt afbreken? "
+
+msgid "[HOTKEY PRESS] PVR exit notification message"
+msgstr "U kijkt naar een opname. Afspelen onderbreken?”"
+
+msgid "[HOTKEY PRESS] VOD exit notification message"
+msgstr "U kijkt naar een programma op aanvraag. Afspelen onderbreken?"
+
+#, python-format
+msgid "[LTC]%d RECORDING"
+msgstr "%d item(s)"
+
+#, python-format
+msgid "[LTC]%d RECORDINGS"
+msgstr "%d items"
+
+#, python-format
+msgid "[LTC]%d days"
+msgstr "%d dagen"
+
+#, python-format
+msgid "[LTC]%s%%%% disk space left"
+msgstr "schijfruimte: %s%%%% vrij"
+
+#, python-format
+msgid "[LTC]%s%%%% free for long term"
+msgstr "l. termijn : %s%%%% vrij"
+
+#, python-format
+msgid "[LTC]%s%%%% free for short term"
+msgstr "k. termijn : %s%%%% vrij"
+
+#, python-format
+msgid ""
+"[LTC]All your recorded episodes will be kept for %(retention_months)s month "
+"after each separate recording - unless deleted earlier for other reasons"
+msgstr ""
+"Elke aflevering blijft tot %(retention_months)s maanden na opname bewaard."
+
+#, python-format
+msgid ""
+"[LTC]All your recorded episodes will be kept for %(retention_months)s months "
+"after each separate recording - unless deleted earlier for other reasons"
+msgstr ""
+"Elke aflevering blijft tot %(retention_months)s maanden na opname bewaard."
+
+msgid "[LTC]Delete for Space"
+msgstr "wissen indien schijf vol"
+
+msgid "[LTC]It is not possible to convert this record to a long term"
+msgstr "Deze opname kan niet langer bewaard worden."
+
+msgid "[LTC]Last Chance"
+msgstr "laatste kans"
+
+msgid "[LTC]Lifespan"
+msgstr "beschikbaar"
+
+msgid "[LTC]Local Disk"
+msgstr "harde schijf"
+
+msgid "[LTC]Long Term"
+msgstr "lange termijn"
+
+msgid "[LTC]Long-term"
+msgstr "lange termijn"
+
+msgid "[LTC]More info"
+msgstr "meer info"
+
+msgid "[LTC]Network"
+msgstr "korte termijn"
+
+msgid "[LTC]Never show again"
+msgstr "nooit meer tonen"
+
+msgid "[LTC]Not enough space"
+msgstr "onvoldoende ruimte"
+
+msgid "[LTC]Not now"
+msgstr "momenteel niet"
+
+msgid ""
+"[LTC]One or more of your recordings will disappear in less than 7 days !"
+msgstr ""
+"Sommige opnames verdwijnen over minder dan 7 dagen. Je vindt ze in ‘laatste "
+"kans’."
+
+#, python-format
+msgid ""
+"[LTC]Please free up some space first. You only have %(remaining)d minutes "
+"left"
+msgstr ""
+"Gelieve enkele langetermijnopnames te wissen. U hebt slechts %(remaining)d "
+"minuten beschikbaar."
+
+#, python-format
+msgid "[LTC]Remark: Your long term space is limited to %(space_limit)s hour"
+msgstr "Opnamecapaciteit:%(space_limit)s uur. "
+
+#, python-format
+msgid "[LTC]Remark: Your long term space is limited to %(space_limit)s hours"
+msgstr "Opnamecapaciteit:%(space_limit)s uur. "
+
+msgid "[LTC]Short Term"
+msgstr "korte termijn"
+
+msgid ""
+"[LTC]This channel does not allow network recordings. Click on the green "
+"button for more info."
+msgstr ""
+"Deze zender laat geen opnames toe. Druk op de groene knop voor meer info."
+
+msgid ""
+"[LTC]This channel doesn't support long term conservation. Click on the green "
+"button for more info."
+msgstr ""
+"Deze zender laat geen langetermijnopnames toe. Druk op de groene knop voor "
+"meer info."
+
+msgid "[LTC]This channel doesn't support network recording anymore"
+msgstr ""
+"Deze zender laat geen opnames toe. Druk op de groene knop voor meer info."
+
+msgid "[LTC]Watch out ! Not all episodes could be converted to long term."
+msgstr "OPGELET! Sommige afleveringen zijn niet overgezet naar lange termijn."
+
+#, python-format
+msgid ""
+"[LTC]You can conserve a %(days)s days recording for a longer period via the "
+"detail screen for each"
+msgstr ""
+"Het is mogelijk om een opname langer te bewaren dan %(days)s dagen. Ga naar "
+"uw opname en pas aan via het menu."
+
+#, python-format
+msgid ""
+"[LTC]You have used more LT space than allowed. Please clear up some place or "
+"Proximus will remove your oldest recordings starting from "
+"%(cleanup_start_date)s"
+msgstr ""
+"De opslagcapaciteit voor ‘korte termijn’ is overschreden. \n"
+"Kies voor langertermijnbewaring van bepaalde opnames of verwijder een aantal "
+"opnames om ruimte vrij te maken. Anders worden de oudste opnames automatisch "
+"gewist vanaf %(cleanup_start_date)s."
+
+#, python-format
+msgid ""
+"[LTC]You have used more ST space than allowed. Please clear up some place or "
+"Proximus will remove your oldest recordings starting from "
+"%(cleanup_start_date)s"
+msgstr ""
+"De opslagcapaciteit voor ‘korte termijn’ is overschreden. \n"
+"Kies voor langertermijnbewaring van bepaalde opnames of verwijder een aantal "
+"opnames om ruimte vrij te maken. Anders worden de oudste opnames automatisch "
+"gewist vanaf %(cleanup_start_date)s."
+
+msgid ""
+"[LTC]Your recorded episodes will not have an expiration date - unless "
+"deleted earlier for other reasons"
+msgstr ""
+"Uw afleveringen worden opgenomen voor onbeperkte tijd, tenzij u ze zelf wist."
+
+#, python-format
+msgid ""
+"[LTC]Your recording will be kept for %(retention_months)s month after "
+"recording - %(retention_end_date)s"
+msgstr ""
+"Uw opname zal gedurende %(retention_months)s maanden na de opname worden "
+"bijgehouden - %(retention_end_date)s"
+
+#, python-format
+msgid ""
+"[LTC]Your recording will be kept for %(retention_months)s months after "
+"recording - %(retention_end_date)s"
+msgstr ""
+"Uw opname zal gedurende %(retention_months)s maanden na de opname worden "
+"bijgehouden - %(retention_end_date)s"
+
+msgid "[LTC]Your recording will not have an expiration date."
+msgstr "Uw opname blijft onbeperkt bewaard."
+
+#, python-format
+msgid "[LTC]available during %(nb_days)s days"
+msgstr "min. %(nb_days)s dagen beschikbaar"
+
+msgid "[LTC]confirm "
+msgstr "bevestigen"
+
+msgid "[LTC]continue "
+msgstr "doorgaan"
+
+msgid "[LTC]long term conservation"
+msgstr "langetermijnbewaring"
+
+msgid "[LTC]save recorded episodes longer"
+msgstr "alle afleveringen langer bewaren"
+
+msgid "[LTC]save recording longer"
+msgstr "opname langer bewaren"
+
+msgid "[LTC]save this episode longer"
+msgstr "deze aflevering langer bewaren"
+
+msgid "[MINI-EPG] loading message"
+msgstr "Even geduld"
+
+msgid "[MINI-EPG] next label"
+msgstr "volgende"
+
+msgid "[MINI-EPG] playing label"
+msgstr "nu"
+
+msgid "[MINI-EPG] previous label"
+msgstr "vorige"
+
+msgid "[MINI-EPG] tv guide shortcut"
+msgstr "tv-gids"
+
+msgid "[MOSAIC] loading message"
+msgstr "Even geduld"
+
+msgid "[MyMedia] launch"
+msgstr "starten"
+
+msgid "[MyMedia] qr_code"
+msgstr "QR-code"
+
+msgid "[NA] please enter your line and press OK"
+msgstr "Voer uw lijnnummer in en klik daarna op knop OK"
+
+msgid "[NETFLIX_NO_SIGNAL] message"
+msgstr ""
+"Kijk even na of alle kabels goed zijn aangesloten. Check?Bel ons op 0800 22 "
+"800 als het probleem aanhoudt."
+
+msgid "[NETFLIX_NO_SIGNAL] title"
+msgstr "Probleem met de verbinding "
+
+#, python-format
+msgid "[PVR-NOTIF] Series recording %(title)s failure"
+msgstr "De opname van de volgende serie is mislukt: %(title)s"
+
+#, python-format
+msgid "[PVR-NOTIF] Single recording %(title)s failure"
+msgstr "De volgende opname is mislukt: %(title)s"
+
+#, python-format
+msgid "[PVR] %(count)d episode"
+msgstr "%(count)d aflevering "
+
+#, python-format
+msgid "[PVR] %(count)d episodes"
+msgstr "%(count)d afleveringen "
+
+msgid "[PVR] cancel delete"
+msgstr "annuleren"
+
+msgid "[PVR] confirm delete"
+msgstr "bevestigen"
+
+msgid "[PVR] delete episode action"
+msgstr "aflevering wissen"
+
+msgid "[PVR] delete episode message"
+msgstr "Bent u zeker dat u de aflevering wilt wissen?"
+
+msgid "[PVR] delete episode title"
+msgstr "aflevering wissen"
+
+msgid "[PVR] delete program action"
+msgstr "wissen"
+
+msgid "[PVR] delete program message"
+msgstr "Bent u zeker dat u de opname wilt wissen?"
+
+msgid "[PVR] delete program title"
+msgstr "opname wissen"
+
+msgid "[PVR] delete series action"
+msgstr "alle afleveringen wissen"
+
+msgid "[PVR] delete series message"
+msgstr "Bent u zeker dat u alle serieopname wilt wissen?"
+
+msgid "[PVR] delete series title"
+msgstr "alle afleveringen wissen"
+
+msgid "[PVR] processing message"
+msgstr "Even geduld"
+
+msgid "[PVR]episodes"
+msgstr "afleveringen "
+
+msgid "[PVR]today"
+msgstr "vandaag"
+
+msgid "[SETTINGS/NETWORK/ETHERNET] long help text"
+msgstr ""
+"Je decoder is momenteel verbonden via een ethernetkabel. Wil je een "
+"verbinding via wifi ? Haal de kabel uit je decoder, zet je decoder uit en "
+"zet hem na een minuut terug aan. "
+
+msgid "[SETTINGS/NETWORK/WIFI] long help text"
+msgstr ""
+"Je decoder is momenteel verbonden via het hieronder vermelde wifi-netwerk. "
+"Wil je een verbinding via de kabel ? Sluit de ethernetkabel aan op je "
+"decoder, zet je decoder uit, en zet hem na 1 minuut terug aan.  "
+
+msgid "[SETTINGS/NETWORK] title"
+msgstr "verbinding van je decoder"
+
+msgid "[STORE] applications title"
+msgstr "apps"
+
+msgid "[STORE] loading info"
+msgstr "   "
+
+msgid "[STORE] loading message"
+msgstr "Even geduld"
+
+msgid "[STORE] on demand title"
+msgstr "op aanvraag"
+
+msgid "[STORE] search title"
+msgstr "zoek in shop"
+
+msgid "[STORE] selections title"
+msgstr "suggesties"
+
+msgid "[STORE] subscriptions title"
+msgstr "activeer een optie"
+
+msgid ""
+"[SW_UPDATE]Please wait during loading.\n"
+"Your box will start again at the end"
+msgstr ""
+"Even geduld...\n"
+"De decoder herstart automatisch als de update is gebeurd."
+
+msgid "[SW_UPDATE]SOFTWARE DOWNLOAD"
+msgstr "decoder update"
+
+msgid "[TV] loading info"
+msgstr " "
+
+msgid "[TV] loading message"
+msgstr "Even geduld"
+
+msgid "[UI STANDBY SETTINGS] help text <b>eco</b> mode"
+msgstr ""
+"In de stand 'eco' verbruikt je decoder slechts 0,05 Wh in  "
+"sluimerstand, maar duurt het iets langer om op te starten.  "
+
+msgid "[UI STANDBY SETTINGS] help text <b>normal</b> mode"
+msgstr ""
+"In de stand 'normaal' gaat je decoder onmiddellijk aan en is "
+"het verbruik 0,20 Wh in sluimerstand."
+
+msgid "[UPSELLING] unsubscribed channel message"
+msgstr "Deze zender maakt deel uit van een betalend boeket."
+
+#, python-format
+msgid "[VOD FREE CREDITS] %(new_credits)s left message"
+msgstr "Je hebt nog %(new_credits)s film(s) tegoed"
+
+msgid "[VOD FREE CREDITS] rent for 1 credit message"
+msgstr "mijn gratis blockbuster"
+
+msgid "a to z"
+msgstr "a tot z"
+
+msgid "added to wishlist"
+msgstr "toegevoegd aan verlanglijst"
+
+msgid "all"
+msgstr "alle"
+
+msgid "all ages"
+msgstr "voor allen"
+
+msgid "all episodes"
+msgstr "alle afleveringen"
+
+msgid "amazing"
+msgstr "ongelooflijk"
+
+msgid "apr"
+msgstr "apr"
+
+msgid "ara"
+msgstr "AR"
+
+msgid "arabic"
+msgstr "AR"
+
+msgid "arf"
+msgstr "zeer slecht"
+
+msgid "audio"
+msgstr "audio"
+
+msgid "aug"
+msgstr "aug"
+
+msgid "average"
+msgstr "middelmatig"
+
+msgid "average rating"
+msgstr "gemiddelde score"
+
+msgid "back to live"
+msgstr "terug naar live"
+
+msgid "bad"
+msgstr "slecht"
+
+msgid "birthday"
+msgstr "geboortedag"
+
+msgid "bookmark"
+msgstr "toevoegen aan mijn favorieten"
+
+msgid "box number"
+msgstr "busnummer"
+
+msgid "buy"
+msgstr "kopen"
+
+msgid "cancel"
+msgstr "annuleren"
+
+msgid "cancel "
+msgstr "annuleren"
+
+msgid "cancel bookmark"
+msgstr "verwijderen uit mijn favorieten"
+
+msgid "cancel episode recording"
+msgstr "opname van de aflevering annuleren"
+
+msgid "cancel record series"
+msgstr "opname van de serie annuleren"
+
+msgid "cancel recording"
+msgstr "opname annuleren"
+
+msgid "cancel reminder"
+msgstr "herinnering wissen"
+
+msgid "cancel series recording"
+msgstr "serieopname annuleren"
+
+msgid "channel catalog"
+msgstr "zendercatalogus"
+
+msgid "choose your version and "
+msgstr "kies uw versie en"
+
+msgid "choose your version and rent"
+msgstr "kies uw versie en huur"
+
+msgid "choose your version and watch"
+msgstr "kies uw versie en kijk"
+
+msgid "city"
+msgstr "stad"
+
+msgid "close"
+msgstr "sluiten"
+
+msgid "configure"
+msgstr "nu instellen"
+
+msgid "confirm"
+msgstr "bevestigen"
+
+msgid "continue"
+msgstr "verdergaan"
+
+msgid "dec"
+msgstr "dec"
+
+msgid "delete"
+msgstr "wissen"
+
+msgid "delete episode"
+msgstr "aflevering wissen"
+
+msgid "delete if disk is full"
+msgstr "wissen indien schijf vol"
+
+msgid "delete series"
+msgstr "alle afleveringen wissen"
+
+msgid "demo"
+msgstr "demo"
+
+msgid "disappointing"
+msgstr "flauw"
+
+msgid "dut"
+msgstr "NL"
+
+msgid "dutch"
+msgstr "NL"
+
+msgid "email"
+msgstr "e-mailadres"
+
+msgid "eng"
+msgstr "EN"
+
+msgid "english"
+msgstr "EN"
+
+msgid "feb"
+msgstr "feb"
+
+msgid "female"
+msgstr "vrouw"
+
+msgid "first name"
+msgstr "voornaam"
+
+msgid "fre"
+msgstr "FR"
+
+msgid "fra"
+msgstr "FR"
+
+msgid "fra (hearing impaired)"
+msgstr "FR (slechthorenden)"
+
+msgid "french"
+msgstr "FR"
+
+msgid "fri"
+msgstr "vr"
+
+msgid "gender"
+msgstr "geslacht"
+
+msgid "genre"
+msgstr "genre"
+
+msgid "ger"
+msgstr "DE"
+
+msgid "german"
+msgstr "DE"
+
+msgid "good"
+msgstr "goed"
+
+msgid "gre"
+msgstr "GR"
+
+msgid "great"
+msgstr "geweldig"
+
+msgid "greek"
+msgstr "GR"
+
+msgid "grid"
+msgstr "tv-gids"
+
+msgid "home"
+msgstr "home"
+
+msgid "horrible"
+msgstr "afgrijselijk"
+
+msgid "house number"
+msgstr "huisnummer"
+
+#, python-format
+msgid "in %(minutes)s minutes"
+msgstr "in %(minutes)s minuten"
+
+msgid "in library"
+msgstr "in mijn bibliotheek"
+
+msgid "in main hub"
+msgstr "in het menu"
+
+msgid "in store"
+msgstr "in de shop"
+
+msgid "in television"
+msgstr "in tv-menu"
+
+msgid "in your subscription"
+msgstr "in mijn abonnement"
+
+msgid "included in"
+msgstr "inbegrepen in"
+
+msgid "ita"
+msgstr "IT"
+
+msgid "italian"
+msgstr "IT"
+
+msgid "jan"
+msgstr "jan"
+
+msgid "jul"
+msgstr "jul"
+
+msgid "jun"
+msgstr "jun"
+
+msgid "language"
+msgstr "taal"
+
+msgid "last chance"
+msgstr "laatste kans"
+
+msgid "last name"
+msgstr "familienaam"
+
+msgid "last searches"
+msgstr "laatste zoekopdrachten"
+
+msgid "launch"
+msgstr "starten"
+
+msgid "library"
+msgstr "mijn bibliotheek"
+
+msgid "listen to radio live"
+msgstr "Luisteren"
+
+msgid "male"
+msgstr "man"
+
+msgid "mar"
+msgstr "mrt"
+
+msgid "may"
+msgstr "mei"
+
+msgid "min"
+msgstr "min."
+
+msgid "mins"
+msgstr "minuten"
+
+msgid "mobile"
+msgstr "gsm"
+
+msgid "mon"
+msgstr "maa"
+
+msgid "more"
+msgstr "meer"
+
+msgid "more information"
+msgstr "meer informatie"
+
+msgid "more infos on bouquet"
+msgstr "meer informatie over boeketten"
+
+msgid "most rented"
+msgstr "populair"
+
+msgid "must see"
+msgstr "grandioos"
+
+msgid "my media description"
+msgstr ""
+
+msgid "netflix"
+msgstr "Netflix"
+
+msgid "never delete"
+msgstr "nooit wissen"
+
+msgid "newly added"
+msgstr "nieuw"
+
+msgid "no"
+msgstr "neen"
+
+msgid "no category"
+msgstr "geen enkele categorie"
+
+msgid "nov"
+msgstr "nov"
+
+msgid "number of episodes to be kept"
+msgstr "aantal te bewaren afleveringen"
+
+msgid "oct"
+msgstr "okt"
+
+msgid "ok"
+msgstr "OK"
+
+#, python-format
+msgid "only %d day left"
+msgstr "nog %d dag(en) beschikbaar"
+
+#, python-format
+msgid "only %d days left"
+msgstr "nog %d dagen"
+
+#, python-format
+msgid "only %d hour left"
+msgstr "nog %d uur beschikbaar"
+
+#, python-format
+msgid "only %d hours left"
+msgstr "%d u beschikbaar"
+
+msgid "options"
+msgstr "opties"
+
+msgid "pause"
+msgstr "pauzeren"
+
+msgid "phone"
+msgstr "telefoon"
+
+msgid "play"
+msgstr "afspelen"
+
+msgid "por"
+msgstr "PT"
+
+msgid "portuguese"
+msgstr "PT"
+
+msgid "price in"
+msgstr "prijs in"
+
+msgid "rate"
+msgstr "score geven"
+
+msgid "record"
+msgstr "opnemen"
+
+msgid "record all episodes"
+msgstr "alle afleveringen opnemen"
+
+msgid "record option"
+msgstr "opnameopties"
+
+msgid "record series"
+msgstr "serie opnemen"
+
+msgid "record series options"
+msgstr "opnameopties van de serie"
+
+msgid "recording can not be scheduled because of a conflict"
+msgstr "De opname kan niet worden ingesteld omwille van een conflict."
+
+msgid "recording options"
+msgstr "opnameopties"
+
+msgid "recording settings"
+msgstr "opnameopties"
+
+msgid "release date"
+msgstr "recent"
+
+#, python-format
+msgid "remaining time %(_remaining_time)d"
+msgstr "resterende tijd %(_remaining_time)d"
+
+#, python-format
+msgid "remaining time %(_remaining_time)dh"
+msgstr "resterende tijd %(_remaining_time)dh"
+
+#, python-format
+msgid "remaining time %(_remaining_time)dmin"
+msgstr "resterende tijd %(_remaining_time)dmin"
+
+msgid "reminder"
+msgstr "herinnering"
+
+msgid "remove"
+msgstr "wissen"
+
+msgid "rent"
+msgstr "huren"
+
+msgid "return to default"
+msgstr "standaardvolgorde"
+
+msgid "sat"
+msgstr "za"
+
+msgid "search"
+msgstr "zoeken"
+
+msgid "sep"
+msgstr "sep"
+
+msgid "series recording options"
+msgstr "opnameopties van de serie"
+
+msgid "series recording settings"
+msgstr "opnameopties van de serie"
+
+msgid "settings"
+msgstr "instellingen"
+
+msgid "setup wizard"
+msgstr "setup wizard"
+
+#, python-format
+msgid "showcase %s infos"
+msgstr "showcase %s infos"
+
+msgid "showcase search infos"
+msgstr "   "
+
+msgid "showcase settings infos"
+msgstr "   "
+
+msgid "similar"
+msgstr "vergelijkbaar"
+
+msgid "solve conflict"
+msgstr "conflict oplossen"
+
+msgid "spa"
+msgstr "ES"
+
+msgid "spanish"
+msgstr "ES"
+
+msgid "start over"
+msgstr "herstarten"
+
+msgid "starting price"
+msgstr "prijs vanaf"
+
+msgid "stop"
+msgstr "stoppen"
+
+msgid "stop recording"
+msgstr "opname stoppen"
+
+msgid "store"
+msgstr "shop"
+
+msgid "street"
+msgstr "straat"
+
+msgid "subtitles"
+msgstr "ondertitels"
+
+msgid "sun"
+msgstr "zo"
+
+msgid "television"
+msgstr "televisie"
+
+msgid "terms and conditions"
+msgstr "algemene voorwaarden"
+
+msgid "thu"
+msgstr "do"
+
+msgid "today at "
+msgstr "vandaag om"
+
+msgid "trailer"
+msgstr "trailer"
+
+msgid "try again"
+msgstr "probeer opnieuw"
+
+msgid "tue"
+msgstr "di"
+
+msgid "tv replay"
+msgstr "TV Replay"
+
+msgid "tv replay+"
+msgstr "TV Replay+"
+
+msgid "und"
+msgstr "-"
+
+msgid "undefined"
+msgstr "-"
+
+msgid "validate"
+msgstr "bevestigen"
+
+msgid "validate "
+msgstr "bevestigen"
+
+msgid "version"
+msgstr "versie"
+
+msgid "watch"
+msgstr "kijken"
+
+msgid "wed"
+msgstr "wo"
+
+#, python-format
+msgid "will begin in %(minutes)s min."
+msgstr "begint over %(minutes)s min."
+
+#, python-format
+msgid "with %(subtitle_code)s subtitles"
+msgstr "met %(subtitle_code)s ondertitels"
+
+msgid "with dutch subtitles"
+msgstr "met Nederlandse ondertitels"
+
+msgid "with english subtitles"
+msgstr "met Engelse ondertitels"
+
+msgid "with french subtitles"
+msgstr "met Franse ondertitels"
+
+msgid "with german subtitles"
+msgstr "met Duitse ondertitels"
+
+msgid "wrong Line Number, please enter it again"
+msgstr "Fout! Probeer opnieuw."
+
+msgid "yes"
+msgstr "ja"
+
+msgid "yesterday at "
+msgstr "gisteren om"
+
+msgid "you are currently enhancing your recommendation profile"
+msgstr "U bent u aanbevelingsprofiel aan het updaten."
+
+msgid "your subscription"
+msgstr "mijn abonnement"
+
+msgid "zaplist"
+msgstr "zaplijst"
+
+msgid "zip code"
+msgstr "postnummer"
+
+
+msgid ""
+"A problem occured while loading this page. Belgacom is doing its best to "
+"resolve this problem as soon as possible."
+msgstr ""
+"Er is een probleem opgetreden tijdens het laden van deze pagina. Proximus "
+"doet haar best om dit probleem zo snel mogelijk op te lossen."
+
+
+msgid "Contact Belgacom to subscribe to this service."
+msgstr "Neem contact op met Belgacom om je te abonneren op deze dienst."
+
+msgid "loading"
+msgstr "aan het laden..."
+
+msgid "live"
+msgstr "bezig"
+
+msgid "previous"
+msgstr "vorige"
+
+msgid "next"
+msgstr "volgende"
+
+msgid "tv guide"
+msgstr "tv-gids"
+
+msgid "You are currently watching a recording. Are you sure you want to interrupt this?"
+msgstr "U kijkt naar een opname. Afspelen onderbreken?"
+
+msgid "You are currently watching an on-demand program. Are you sure you want to interrupt this?"
+msgstr "U kijkt naar een programma op aanvraag. Afspelen onderbreken?"
+
+msgid "today"
+msgstr "vandaag"
+
+msgid "episodes"
+msgstr "afleveringen"
+
+#, python-format
+msgid "%(count)d episodes"
+msgstr "%(count)d afleveringen"
+
+msgid "YESTERDAY"
+msgstr "gisteren"
+
+msgid "processing"
+msgstr "even geduld..."
+
+#, python-format
+msgid ""
+"Your recording '%(program_title)s' can't be executed at this time,\n"
+"please try again later"
+msgstr ""
+"Uw opname van '%(program_title)s' kon momenteel niet geprogrammeerd worden.\n"
+"Probeer aub later opnieuw."
+
+#, python-format
+msgid ""
+"Your series recording of '%(program_title)s' can't be executed at this time,\n"
+"please try again later"
+msgstr ""
+"Uw serie-opname van '%(program_title)s' kon momenteel niet geprogrammeerd worden.\n"
+"Probeer aub later opnieuw."
+
+#, python-format
+msgid "one episode has %d hour left"
+msgstr "een aflevering nog %d uur beschikbaar"
+
+#, python-format
+msgid "one episode has %d hours left"
+msgstr "een aflevering nog %d uur beschikbaar"
+
+#, python-format
+msgid "one episode has %d day left"
+msgstr "een aflevering nog %d dag beschikbaar"
+
+#, python-format
+msgid "one episode has %d days left"
+msgstr "een aflevering nog %d dagen beschikbaar"
+
+msgid "Your kadofilm is newly available"
+msgstr "Uw kadofilm is vanaf nu beschikbaar"
+
+msgid "choose now"
+msgstr "nu kiezen"
+
+msgid "never show again"
+msgstr "nooit meer tonen"
+
+msgid "%(new_credits)s credits are available until %(dcc_date)s"
+msgstr "u beschikt over %(new_credits)s kadofilm(s), beschikbaar tot %(dcc_date)s"
+
+msgid "[VOD DCC CREDITS] renting your kadofilm"
+msgstr "huren van uw kadofilm"
+
+msgid "channel subtitle"
+msgstr "ondertitels"
+
+msgid "channel language"
+msgstr "gesproken taal"
+
+msgid "channel language & subtitle"
+msgstr "gesproken taal en ondertitels"
+
+msgid "language & subtitle"
+msgstr "gesproken taal en ondertitels"
+
+msgid "language and subtitle"
+msgstr "gesproken taal en ondertitels"
+
+msgid "primary audio"
+msgstr "gesproken taal"
+
+msgid "primary subtitle"
+msgstr "taal van de ondertitels"
+
+msgid "secondary audio"
+msgstr "2e gesproken taal"
+
+msgid "secondary subtitle"
+msgstr "2e taal van de ondertitels"
+
+msgid "subtitle & language"
+msgstr "gesproken taal en ondertitels"
+
+msgid "subtitle and language"
+msgstr "gesproken taal en ondertitels"
+
+msgid "none"
+msgstr "gedesactiveerd"
+
+
+msgid "generic"
+msgstr "auto"
+
+
+msgid "UI LANGUAGE"
+msgstr "taal van het menu"
+
+
+msgid ""
+"Configure your preferred language for this channel. This setting overrules "
+"the general setting."
+msgstr ""
+"Stel je taalvoorkeur in voor deze zender of gebruik 'auto' voor "
+"standaardinstelling."
+
+
+msgid ""
+"Configure your subtitles and language. The subtitles will automatically be "
+"shown if available. These settings overrule the general settings."
+msgstr ""
+"Stel je voorkeur in voor taal en ondertiteling op deze zender, of gebruik "
+"'auto' voor standaardinstelling. Ondertitels worden automatisch getoond "
+"indien beschikbaar voor het programma."
+
+
+msgid ""
+"Configure your subtitles for this channel, or use default general settings. "
+"The subtitle will automatically be shown if available for this program."
+msgstr ""
+"Stel je taalvoorkeur in voor de ondertitels op deze zender of gebruik 'auto' "
+"voor standaardinstelling. Ondertitels worden automatisch getoond indien "
+"beschikbaar voor het programma."
+
+
+msgid ""
+"Configure your preferred language for on-demand items. This setting "
+"overrules the general setting."
+msgstr ""
+"Stel je voorkeurstaal in voor films op aanvraag, of gebruik 'auto' voor "
+"standaardstelling."
+
+
+msgid ""
+"Configure your subtitle or use default general settings. The subtitle will "
+"automatically be shown if available for on-demand items."
+msgstr ""
+"Stel je voorkeurstaal in voor films op aanvraag, of gebruik 'auto' worden "
+"automatisch getoond indien beschikbaar."
+
+
+msgid ""
+"Configure your preferred audio and subtitle. The subtitles will "
+"automatically be shown if available. These settings overrule the general "
+"settings."
+msgstr ""
+"Stel je voorkeur in voor ondertiteling voor films op aanvraag of gebruik "
+"'auto' voor standaardinstelling. Ondertitels worden automatisch getoond "
+"indien beschikbaar"
+
+msgid ""
+"Configure your general preferred audio and subtitle languages. These "
+"settings can only be applied if available"
+msgstr ""
+"Stel je voorkeur in voor gesproken taal en ondertitels. Deze zullen worden "
+"gebruikt indien beschikbaar."
+
+msgid "my pass"
+msgstr "mijn Pass’en"
+
+msgid "You didn't subscribe to any Pass."
+msgstr "U heeft momenteel geen Pass’en in uw abonnement."
+
+msgid "available until"
+msgstr "beschikbaar tot"
+
+msgid "duration"
+msgstr "speelduur"
+
+msgid "release year"
+msgstr "release jaar"
+
+#Software Download
+msgid "Installation"
+msgstr "installatie"
+
+msgid "Good news! A new software update is available for your decoder\n"
+      "You can decide to execute the update now by clicking OK on your remote control or "
+      "select 'update during the night' for an automatic installation."
+
+msgstr "Goed nieuws! Er is een nieuwe software update beschikbaar voor jouw decoder. "
+       "Wil je hem nu installeren? Klik dan op de OK knop van je Proximus afstandsbediening. "
+       "Wil je een automatisch installatie laten uitvoeren tijdens\n de nacht? Selecteer dan de 2de optie."
+
+msgid "Install the software now"
+msgstr "installeer de update nu"
+
+msgid "Update during the night"
+msgstr "software update tijdens de nacht"
+
+msgid "update during the night"
+msgstr "installeer tijdens de nacht"
+
+msgid "New software"
+msgstr "software update"
+
+msgid "For the update to be executed correctly you will need to leave your decoder in stand-by or powered on together with your modem."
+msgstr "Om deze automatische update te laten uitvoeren, moet jouw decoder in stand-by modus staan. Dit doe je door jouw decoder uit te zetten met de afstandsbediening. "
+       "Je mag de decoder ook aan laten.\nDe modem mag niet uitgezet worden."
+
+msgid "ok,i got it"
+msgstr "ok, ik heb het begrepen"
+
+msgid "Software Download"
+msgstr "software download"
+
+
+msgid "Please wait until the software is downloaded and installed completely"
+msgstr "Aan het downloaden"
+
+msgid "Download complete"
+msgstr "download klaar"
+
+msgid "Your decoder will automatically reboot in %(seconds_remaining)s seconds"
+msgstr "Je decoder zal over een paar seconden automatisch herstarten en de nieuwe software installeren. Herstart in %(seconds_remaining)s sec."
+msgid "action"
+msgstr "actie"
+
+msgid "adventure"
+msgstr "avontuur"
+msgid "animation"
+msgstr "animatie"
+msgid "biography"
+msgstr "biografie"
+msgid "classical"
+msgstr "klassiek"
+msgid "comedy"
+msgstr "komedie"
+msgid "concert"
+msgstr "concert"
+msgid "crime"
+msgstr "misdaad"
+msgid "documentary"
+msgstr "documentaire"
+msgid "drama"
+msgstr "drama"
+msgid "erotic"
+msgstr "erotiek"
+msgid "family"
+msgstr "familie"
+msgid "fantasy"
+msgstr "fantasy"
+msgid "horror"
+msgstr "horror"
+msgid "music clips"
+msgstr "muziekclips"
+msgid "musical"
+msgstr "musical"
+msgid "mystery"
+msgstr "mysterie"
+msgid "opera"
+msgstr "opera"
+msgid "pop"
+msgstr "pop"
+msgid "rock"
+msgstr "rock"
+msgid "romance"
+msgstr "romantiek"
+msgid "sci-fi"
+msgstr "sci-fi"
+msgid "thriller"
+msgstr "thriller"
+msgid "war"
+msgstr "oorlog"
+msgid "western"
+msgstr "western"
+msgid "x-adult"
+msgstr "x-adult"
+msgid "more info on this episode in %d seconds"
+msgstr "samenvatting volgende afl. in %d sec."
+#. CR3004: Autoplay next episode.
+#. Action list entry for TVOD case where next episode needs rental first.
+#: loco:58afff8a52e1a1ee0d8b4586
+msgid "rent next episode"
+msgstr "volgende aflevering huren"
+
+msgid "start next episode"
+msgstr "volgende aflevering kijken"
+msgid "this episode will start in %d seconds"
+msgstr "de volgende aflevering start over %d sec."
+msgid "PVRdetail.remainAvail %d days"
+msgstr "nog %d dagen"
+msgid "PVRdetail.remainAvail %d day"
+msgstr "nog %d dag"
+msgid "PVRdetail.remainAvail %d hours"
+msgstr "nog %d uur"
+msgid "PVRdetail.remainAvail %d hour"
+msgstr "nog %d uur"
+msgid "PVRdetail.avail.label"
+msgstr "beschikbaarheid"
+msgid "PVRdetail.availUntil %(exp_date)s"
+msgstr "tot %(exp_date)s"
+msgid "banner.info.noTeletext"
+msgstr "Teletext is niet beschikbaar op dit kanaal."
+#. CR4014 label for "available until" on VOD details screens
+#: loco:58dcab8952e1a14a348b456c
+msgid "VODdetail.availUntil.label"
+msgstr "beschikbaarheid"
+
+#. CR4014 value for "available until" on VOD details screens.
+#. %(end_avail)s is language neutral, showing a date in 
+#. “dd/mm/yyyy” format.
+#: loco:58dcabdc52e1a17b348b4569
+msgid "VODdetail.availUntil %(end_avail)s"
+msgstr "tot %(end_avail)s"
+
+#. CR4014 label for remaining availability on VOD details screens
+#: loco:58dcac2a52e1a17c348b4569
+msgid "VODdetail.remainAvail.label"
+msgstr "beschikbaarheid"
+
+#. CR4014 remaining VOD availability (days) on VOD details screens
+#: loco:58dcac5b52e1a1bd348b4568
+msgid "VODdetail.remainAvail %d days"
+msgstr "nog %d dagen"
+
+#. CR4014 remaining availability (hours/minutes) on VOD details screens. 
+#. %(timespan)s is language neutral, showing 
+#. hours (one or two digits + “h”);
+#. hours and minutes (each has one or two digits e.g. 5h23min)
+#. or only minutes (one or two digits + "min")
+#: loco:58dcace552e1a1be348b4569
+msgid "VODdetail.remainAvail %(timespan)s"
+msgstr "nog %(timespan)s"
+#. CR4014 VOD "available until" indication on Series_1 category screen.
+#. %(end_avail)s is language neutral, showing a date in 
+#. “dd/mm/yyyy” format.
+#: loco:58dcad5652e1a1c8348b4569
+msgid "VODSeries_1.episode.availUntil %(end_avail)s"
+msgstr "beschikbaar tot %(end_avail)s"
+
+#. CR4014 VOD remaining availability (days) for Series_1 category screen.
+#: loco:58dcad9b52e1a100358b4576
+msgid "VODSeries_1.episode.remainAvail %d days"
+msgstr "nog %d dagen beschikbaar"
+
+#. CR4014 VOD remaining availability (hours/minutes) on Series_1 category screen. 
+#. %(timespan)s is language neutral, showing 
+#. hours (one or two digits + “h”);
+#. hours and minutes (each has one or two minutes e.g. 5h23min)
+#. or only minutes (one or two digits + “min”.
+#: loco:58dcadf052e1a13f358b4567
+msgid "VODSeries_1.episode.remainAvail %(timespan)s"
+msgstr "nog %(timespan)s beschikbaar"

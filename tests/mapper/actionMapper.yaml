@@ -1,0 +1,25 @@
+match_text : testcase_78229.helloWorldWithParam
+
+#common_utils
+stb_poweron : common_utils.health_check
+press_key : common_utils.press_key
+move_to_liveTV : common_utils.play_live_tv
+match_icon : common_utils.check_icon_on_screen
+select_option : common_utils.press_key
+validate_video_playback : common_utils.check_for_motion
+validate_video_pause_option : common_utils.check_video_is_paused
+verify_recording_list_page : common_utils.verify_recording_page
+verify_recording_is_present : common_utils.verify_recording_present
+get_program_title : common_utils.getProgram_Title
+goto_channel_withoption : nav_to_actionmenuoption_untilfinding_dtv
+tune_to_agerating_event : common_utils.tune_to_agerating_event
+match_recording_icon : common_utils.check_for_recording_icon
+validate_pause_option : common_utils.check_video_is_paused
+verify_logo_position : common_utils.verify_logo_position
+verify_recording_is_series : common_utils.verify_recording_is_series
+
+
+#actionmenuoption_navigate
+navigate_to_option_actionmenu : actionmenuoption_navigate.navigate_to_actionmenuoption
+select_option_in-confirmationPage : actionmenuoption_navigate.navigate_to_stoprecordingconfirmationoption
+goto_channel_withoption : actionmenuoption_navigate.nav_to_actionmenuoption_untilfinding_dtv

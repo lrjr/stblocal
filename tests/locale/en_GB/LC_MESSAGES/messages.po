@@ -1,0 +1,3292 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the NTE-LTC package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: NTE-LTC\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-15 12:14+0100\n"
+"PO-Revision-Date: 2017-04-05 11:59+0000\n"
+"Last-Translator: Veronique DAGNELIE <Veronique.DAGNELIE@proximus.com>\n"
+"Language-Team: English (United Kingdom) <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#, python-brace-format
+msgid "${instruction_begin} "
+msgstr ""
+
+#, python-brace-format
+msgid "${title} ${lang}"
+msgstr ""
+
+#, python-format
+msgid "%(count)d ITEM"
+msgstr ""
+
+#, python-format
+msgid "%(count)d ITEMS"
+msgstr ""
+
+#, python-format
+msgid "%(count)d RESULT"
+msgstr ""
+
+#, python-format
+msgid "%(eps-kept)s episodes"
+msgstr ""
+
+#, python-format
+msgid "%(post-margin)s min post-recording time"
+msgstr ""
+
+#, python-format
+msgid "%(pre-margin)s min pre-recording time"
+msgstr ""
+
+#, python-format
+msgid "%(version_code)s version"
+msgstr ""
+
+msgid "%a %b %d at "
+msgstr ""
+
+msgid "%a %d %b"
+msgstr ""
+
+msgid "%a %d %b %Y"
+msgstr ""
+
+msgid "%a %d %b at "
+msgstr ""
+
+msgid "%d %B %Y"
+msgstr ""
+
+#, python-format
+msgid "%d CONFLICT"
+msgstr ""
+
+#, python-format
+msgid "%d CONFLICTS"
+msgstr ""
+
+#, python-format
+msgid "%d ITEM"
+msgstr ""
+
+#, python-format
+msgid "%d ITEMS"
+msgstr ""
+
+#, python-format
+msgid "%d RECORDING"
+msgstr ""
+
+#, python-format
+msgid "%d RECORDINGS"
+msgstr ""
+
+#, python-format
+msgid "%d min"
+msgstr ""
+
+#, python-format
+msgid "%d sec"
+msgstr ""
+
+msgid "%d/%m/%Y"
+msgstr ""
+
+msgid ""
+"'My personal informations' allows you to save your data contact on your "
+"Belgacom TV decoder"
+msgstr ""
+
+msgid ", "
+msgstr ""
+
+msgid "1 - CABLE"
+msgstr "1 - cable"
+
+msgid "1 hour"
+msgstr ""
+
+msgid "1 minute"
+msgstr ""
+
+msgid "15 minutes"
+msgstr ""
+
+msgid "2 - WIRELESS"
+msgstr "2 - wireless"
+
+msgid "2 hours"
+msgstr ""
+
+msgid "3 hours"
+msgstr ""
+
+msgid "30 days"
+msgstr ""
+
+msgid "4 hours"
+msgstr ""
+
+msgid "5 hours"
+msgstr ""
+
+msgid "5 minutes"
+msgstr ""
+
+msgid "6 hours"
+msgstr ""
+
+msgid "7 hours"
+msgstr ""
+
+msgid "8 hours"
+msgstr ""
+
+msgid "9 hours"
+msgstr ""
+
+msgid "A PROBLEM OCCURRED"
+msgstr ""
+
+msgid ""
+"A problem has occured.\n"
+"\n"
+"Please select your language to continue:"
+msgstr ""
+"An error has occured. \n"
+"Please select your language to continue:"
+
+msgid ""
+"A problem has occured.\n"
+"Un problème est survenu.\n"
+"Een probleem heeft zich voorgedaan.\n"
+"Es gibt ein problem."
+msgstr ""
+"A problem has occured.\n"
+"Une erreur est survenue.\n"
+"Een probleem heeft zich voorgedaan.\n"
+"Es gibt ein problem."
+
+msgid ""
+"A recording will start on another channel, and you will zap on the channel "
+"of the recording, do you want to continue?"
+msgstr ""
+
+msgid "ACCOUNT"
+msgstr ""
+
+msgid "ACTIVATE"
+msgstr ""
+
+msgid "ACTIVATE HD"
+msgstr ""
+
+msgid "ALL"
+msgstr ""
+
+msgid "ALL RECORDINGS"
+msgstr ""
+
+msgid "APPLICATIONS"
+msgstr ""
+
+msgid "ARABIC"
+msgstr ""
+
+msgid "ASK PIN CODE FOR RENTING"
+msgstr ""
+
+msgid "ASSIGN FAILED"
+msgstr ""
+
+msgid "AUDIO"
+msgstr ""
+
+msgid "AUDIO LANGUAGE"
+msgstr ""
+
+msgid "Activate parental control"
+msgstr ""
+
+msgid "Advertising"
+msgstr ""
+
+#, python-format
+msgid "Age rating warning message (%(age_rating)s)"
+msgstr ""
+
+msgid "All matches"
+msgstr ""
+
+msgid "Allow TV content rated"
+msgstr ""
+
+msgid "Allow VOD content rated"
+msgstr ""
+
+msgid "Allow not rated content"
+msgstr ""
+
+msgid "An email address must contain a single @"
+msgstr ""
+
+msgid ""
+"An error in the system has occurred. Please reboot your box only when you "
+"are completely blocked. If a reboot does not solve your problem, please call "
+"the Proximus helpdesk."
+msgstr ""
+
+msgid "An unexcepted error occured, please try again."
+msgstr ""
+
+msgid "An unexpected error occured, please try again."
+msgstr ""
+
+msgid "Apr"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "Arabic"
+msgstr ""
+
+msgid "Are you sure you want to cancel recording?"
+msgstr ""
+
+msgid "Are you sure you want to cancel series recording?"
+msgstr ""
+
+msgid "Are you sure you want to create a reminder?"
+msgstr ""
+
+msgid "Are you sure you want to delete recording?"
+msgstr ""
+
+msgid "Are you sure you want to delete the reminder?"
+msgstr ""
+
+msgid "Are you sure you want to stop recording?"
+msgstr ""
+
+msgid "Aug"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Automatic conflict resolution"
+msgstr ""
+
+msgid "BACK"
+msgstr "back"
+
+msgid "BACK TO LIVE"
+msgstr ""
+
+msgid "BELGACOM CHOICES"
+msgstr ""
+
+msgid "BLACK BARS"
+msgstr ""
+
+msgid "BOOKMARK"
+msgstr ""
+
+msgid "BOOKMARKS"
+msgstr ""
+
+msgid "Bedroom"
+msgstr ""
+
+msgid "Belgacom line number :"
+msgstr ""
+
+msgid "CANCEL"
+msgstr ""
+
+msgid "CANCEL BOOKMARK"
+msgstr ""
+
+msgid "CANCEL EPISODE RECORDING"
+msgstr ""
+
+msgid "CANCEL RECORDING"
+msgstr ""
+
+msgid "CANCEL SERIES RECORDING"
+msgstr ""
+
+msgid "CANCEL THIS RECORDING"
+msgstr ""
+
+msgid "CATALOGUE"
+msgstr ""
+
+msgid "CHANGE KEYWORD"
+msgstr ""
+
+msgid "CHANGE YOUR STB NAME"
+msgstr ""
+
+msgid "CHANNEL RENUMBERING"
+msgstr ""
+
+msgid "CHECK THE LINK TO THE WIFI"
+msgstr "no connection to the network"
+
+msgid "CLOSE"
+msgstr ""
+
+msgid "COMPANION DEVICE REGISTRATION"
+msgstr ""
+
+msgid "CONFIGURE LATER"
+msgstr ""
+
+msgid "CONFIGURE NOW"
+msgstr ""
+
+msgid "CONFLICT"
+msgstr ""
+
+msgid "CONFLICTS"
+msgstr ""
+
+msgid "CONNECT YOUR STB TO THE BELGACOM NETWORK"
+msgstr "connect your decoder to the modem"
+
+msgid "CONNECT YOUR STB TO YOUR BBOX"
+msgstr "connection to the wireless system"
+
+msgid "CONNECTION GENIUS"
+msgstr "connection genius"
+
+msgid "CONNECTION PROBLEM"
+msgstr "connection problem"
+
+msgid "CONTINUE"
+msgstr ""
+
+msgid "CONTINUE IN ENGLISH"
+msgstr ""
+
+msgid "CONTINUER EN FRANCAIS"
+msgstr "continuer en francais"
+
+msgid "COOKIES MANAGEMENT"
+msgstr ""
+
+msgid "CUTV IS ON AND HAS BEEN INACTIVE FOR 4 HOURS : RETURN TO LIVE ?"
+msgstr ""
+
+msgid "Calendar per league"
+msgstr ""
+
+msgid "Casting"
+msgstr ""
+
+msgid "Catchup"
+msgstr ""
+
+msgid "Check if your STB is connected via the wireless system."
+msgstr "Check if your decoder is connected via the wireless system."
+
+msgid "Check if your STB is correctly connected to your modem."
+msgstr "Check if your decoder is correctly connected to your modem."
+
+msgid ""
+"Check the connection of the modem to the telephone line and its "
+"synchronisation."
+msgstr ""
+"Make sure your modem is plugged in, connected to the phone line and the DSL "
+"light is fixed."
+
+msgid "Choose your default language"
+msgstr ""
+
+msgid "Choose your new STB name"
+msgstr ""
+
+msgid "Choose your new rate :"
+msgstr ""
+
+msgid "Choose your option"
+msgstr ""
+
+msgid ""
+"Click on <b>configure</b> to start the procedure to connect your RCU "
+"wireless to your proximus decoder"
+msgstr ""
+
+msgid "Conflict Resolution"
+msgstr ""
+
+msgid "Connection successfully completed !"
+msgstr "Connection successfully completed !"
+
+msgid "Consumption of your Internet Data Plan"
+msgstr ""
+
+msgid "DELAY"
+msgstr ""
+
+msgid "DELETE EPISODE RECORDING"
+msgstr ""
+
+msgid "DELETE RECORDING"
+msgstr ""
+
+msgid "DELETE SERIES RECORDING"
+msgstr ""
+
+msgid "DETAILS"
+msgstr ""
+
+msgid "DEVICE MANAGEMENT"
+msgstr ""
+
+msgid "DISABLE"
+msgstr ""
+
+msgid "DO NOT REMIND ME"
+msgstr ""
+
+msgid "DOWNLOADING of the software update in progress."
+msgstr ""
+
+msgid "DUTCH"
+msgstr ""
+
+msgid "Deactivated"
+msgstr ""
+
+msgid "Dec"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "Decoder 1"
+msgstr ""
+
+msgid "Decoder 2"
+msgstr ""
+
+msgid "Decoder 3"
+msgstr ""
+
+msgid "Decoder 4"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete if disk full"
+msgstr ""
+
+msgid "Device can't be unpaired"
+msgstr ""
+
+msgid "Did you connected your STB to the modem via cable or wireless ?"
+msgstr "How did you connect your decoder to the modem ?"
+
+msgid "Director"
+msgstr ""
+
+msgid "Do you really want to delete this contact?"
+msgstr ""
+
+msgid "Do you really want to stop it?"
+msgstr ""
+
+msgid "Do you want to add this item to your wishlist ?"
+msgstr ""
+
+msgid "Do you want to change it ?"
+msgstr ""
+
+msgid "Do you want to desactivate it ?"
+msgstr ""
+
+msgid "Do you want to disable the free personalised TV services ?"
+msgstr ""
+
+msgid "Do you want to erase all cookies ?"
+msgstr ""
+
+msgid "Do you want to remove this item from your wishlist ?"
+msgstr ""
+
+msgid "Dutch"
+msgstr ""
+
+msgid "Dutch version"
+msgstr ""
+
+msgid "ECO"
+msgstr ""
+
+msgid "EMAIL ERROR"
+msgstr ""
+
+msgid "ENGLISH"
+msgstr ""
+
+msgid "ERROR"
+msgstr ""
+
+msgid "ESN"
+msgstr ""
+
+msgid "EXIT POPUP"
+msgstr "close"
+
+msgid "English"
+msgstr ""
+
+msgid "English version"
+msgstr ""
+
+msgid "Enter again your new purchase PIN code"
+msgstr ""
+
+msgid "Enter again your new system PIN code"
+msgstr ""
+
+msgid "Entertainment"
+msgstr ""
+
+#, python-format
+msgid "Error code=%r"
+msgstr ""
+
+#, python-format
+msgid "Error number: %(code)s"
+msgstr ""
+
+msgid "F"
+msgstr ""
+
+msgid "FAILED TO LAUNCH THE TV PLAYER"
+msgstr ""
+
+msgid "FAVOURITE CHANNEL"
+msgstr ""
+
+msgid "FINISH"
+msgstr "finish"
+
+msgid "FIX ALL FUTURE  CONFLICT FOR THIS RECORDING"
+msgstr ""
+
+msgid "FIX THIS CONFLICT AUTOMATICALLY"
+msgstr ""
+
+msgid "FOOTBALL CALENDAR"
+msgstr ""
+
+msgid "FOOTBALL CHANNEL"
+msgstr ""
+
+msgid "FORMAT"
+msgstr ""
+
+msgid "FRENCH"
+msgstr ""
+
+msgid "FRIDAY"
+msgstr ""
+
+msgid "FROM_START"
+msgstr ""
+
+msgid "Failed to assign the STB: ACCOUNT LOCKED PIN TRY OVERFLOW"
+msgstr ""
+
+msgid "Feb"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "Five wrong pin code."
+msgstr ""
+
+msgid ""
+"For an unknown reason your STB is not able to contact Belgacom network, "
+"click on \"I need help\" to contact the helpdesk"
+msgstr ""
+"Your decoder can not connect to the Proximus TV network. Click on \"I need "
+"help\" to contact the helpdesk."
+
+msgid ""
+"For more infos about the license of the software supporting the Belgacom TV "
+"interface : www.belgacom.be/tvcopyright"
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "French version"
+msgstr ""
+
+msgid "Fri"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "GERMAN"
+msgstr ""
+
+msgid "GREEK"
+msgstr ""
+
+msgid "GRID"
+msgstr ""
+
+msgid "Genre"
+msgstr ""
+
+msgid "German"
+msgstr ""
+
+msgid "German version"
+msgstr ""
+
+msgid "Great! Your remote control is now paired wireless"
+msgstr ""
+
+msgid "Greek"
+msgstr ""
+
+msgid "HDMI CEC AUTO SOURCE"
+msgstr ""
+
+msgid "HELP"
+msgstr ""
+
+msgid "HOW TO CHECK THE MODEM"
+msgstr "check the modem"
+
+msgid "HOW TO CHECK WIRELESS LINK"
+msgstr "check wireless link"
+
+msgid "HW version"
+msgstr ""
+
+msgid "Here you can configure your default recording settings"
+msgstr ""
+
+msgid "Here you can find all Svod passes you havesubscribed"
+msgstr ""
+
+msgid "Here you can find all planned recordings"
+msgstr ""
+
+msgid "Here you can find all purchased items"
+msgstr ""
+
+msgid "Here you can find all recordings"
+msgstr ""
+
+msgid "Here you can find all reminders"
+msgstr ""
+
+msgid "Here you can see all recording conflicts"
+msgstr ""
+
+msgid "Historic of your searches"
+msgstr ""
+
+msgid "Home Office"
+msgstr ""
+
+msgid "How did you connect your STB to your modem ?"
+msgstr "How did you connect your decoder to the modem ?"
+
+msgid "I DISLIKE"
+msgstr ""
+
+msgid "I FORGOT MY PERSONAL PIN CODE"
+msgstr ""
+
+msgid "I LIKE"
+msgstr ""
+
+msgid "I NEED HELP"
+msgstr "I need help"
+
+msgid "IMAGE"
+msgstr ""
+
+msgid "IML ASKS FOR PARENTAL PIN"
+msgstr ""
+
+msgid "IML ASKS FOR PURCHASE PIN"
+msgstr ""
+
+msgid "IML ASKS FOR SYSTEM PIN"
+msgstr ""
+
+msgid "IML ASKS FOR USER PIN"
+msgstr ""
+
+msgid "INFOS ON PASS"
+msgstr ""
+
+msgid "IP address"
+msgstr ""
+
+msgid "ISOLATE MODE"
+msgstr "connection problem"
+
+msgid "ITALIAN"
+msgstr ""
+
+msgid "If the data is correct, select confirm."
+msgstr ""
+
+msgid "Impossible to launch the TV player."
+msgstr ""
+
+msgid "In your subscription"
+msgstr ""
+
+msgid "In-depth"
+msgstr ""
+
+msgid "Invalid domain."
+msgstr ""
+
+msgid "Invalid local part."
+msgstr ""
+
+msgid ""
+"Investigate the back of your modem and check if the ethernet cable is "
+"connected to the right port."
+msgstr ""
+"Check on the back of your modem if the ethernet cable is connected to the "
+"right port."
+
+msgid "It cannot be empty."
+msgstr ""
+
+msgid "It cannot contain consecutive dots."
+msgstr ""
+
+msgid "It cannot end with a dot."
+msgstr ""
+
+msgid "It cannot start with a dot."
+msgstr ""
+
+msgid ""
+"It is not possible to record several programs at the same time. Select the "
+"recordings you want to delete and validate."
+msgstr ""
+
+msgid "Italian"
+msgstr ""
+
+msgid "Jan"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+msgid ""
+"Jinni engine doesn't have enough information to provide you with "
+"recommendations"
+msgstr ""
+
+msgid "Jul"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "Jun"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "KEYWORD"
+msgstr ""
+
+msgid "Kids"
+msgstr ""
+
+msgid "Kitchen"
+msgstr ""
+
+msgid "LANGUAGE"
+msgstr ""
+
+msgid "LAST SEARCHES"
+msgstr ""
+
+msgid "LATER ON THIS CHANNEL"
+msgstr ""
+
+msgid "LAUNCH"
+msgstr ""
+
+msgid "LIBRARY_SUBSCRIPTIONS"
+msgstr ""
+
+msgid "LICENSE"
+msgstr ""
+
+msgid "LINE NUMBER"
+msgstr ""
+
+msgid "LIVE"
+msgstr ""
+
+msgid "LOCKED"
+msgstr ""
+
+msgid "Launch netflix"
+msgstr ""
+
+msgid "Lifespan"
+msgstr ""
+
+msgid "List of all yours STB :"
+msgstr ""
+
+msgid "List of of the devices paired with your STB :"
+msgstr ""
+
+msgid "Listing: no item available"
+msgstr ""
+
+msgid "Listing: no items at this moment, please rate more movies"
+msgstr ""
+
+msgid "Living room"
+msgstr ""
+
+msgid "Locked account."
+msgstr ""
+
+msgid "M"
+msgstr ""
+
+msgid "MODE"
+msgstr ""
+
+msgid "MODIFY NOW"
+msgstr ""
+
+msgid "MODIFY PURCHASE PIN"
+msgstr ""
+
+msgid "MODIFY SYSTEM PIN"
+msgstr ""
+
+msgid "MONDAY"
+msgstr ""
+
+msgid "MORE INFO"
+msgstr "more info"
+
+msgid "MOVIES"
+msgstr ""
+
+msgid "MYMEDIA"
+msgstr ""
+
+msgid "Magazine"
+msgstr ""
+
+msgid "Manual"
+msgstr ""
+
+msgid "Manual conflict resolution"
+msgstr ""
+
+msgid "Mar"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid ""
+"Maximum number of decoders is reached. The activation of the new decoder "
+"failed. Please call 0800 9 96 96. After that, you have to power off and on "
+"the decoder to retry the registration."
+msgstr ""
+"Maximum number of decoders is reached. The activation of the new decoder is "
+"not possible. Please call 0800 9 96 96 for removing the decoders no more in "
+"service. After that, you have to power off and on the decoder to retry the "
+"registration. "
+
+msgid "May"
+msgstr ""
+
+msgid "Mon"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Movies"
+msgstr ""
+
+msgid "Multiple programs were skipped"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "My personal informations"
+msgstr ""
+
+msgid "MyMedia"
+msgstr ""
+
+msgid "NETFLIX STREAM WARNING"
+msgstr ""
+
+msgid "APPS STREAM WARNING"
+msgstr ""
+
+msgid "NETWORK"
+msgstr ""
+
+msgid "NEW SEARCH"
+msgstr ""
+
+msgid "NO"
+msgstr ""
+
+msgid "NO COMMUNICATION WITH THE BELGACOM NETWORK"
+msgstr "no connection to the network"
+
+msgid "NO CONNECTION TO THE BELGACOM NETWORK"
+msgstr "no connection to the network"
+
+msgid "NO CONNECTION TO THE TELEPHONE LINE"
+msgstr "no connection to the network"
+
+msgid "NO CONTENT IN THIS CATEGORY"
+msgstr ""
+
+msgid "NO TELETEXT"
+msgstr ""
+
+msgid "NO THINKING"
+msgstr ""
+
+msgid "NO, KEEP IT"
+msgstr ""
+
+msgid "NO, THANK YOU"
+msgstr ""
+
+msgid "NORMAL"
+msgstr ""
+
+msgid "NOW"
+msgstr ""
+
+msgid "NOW OF THIS CHANNEL"
+msgstr ""
+
+msgid ""
+"NTE for New Television Experience. Do you want to change your System pin "
+"code? "
+msgstr ""
+
+msgid "Never delete"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "No device paired with your STB."
+msgstr ""
+
+msgid "No result for this search"
+msgstr ""
+
+msgid "No similar programs found"
+msgstr ""
+
+msgid "No subscription detected. Please contact Proximus TV at 0800 33 800 "
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Nov"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "Number of episodes to be kept"
+msgstr ""
+
+msgid "OFF"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "ON"
+msgstr ""
+
+msgid "OPT-IN"
+msgstr ""
+
+msgid "OPTIONS"
+msgstr ""
+
+msgid "OTHER"
+msgstr ""
+
+msgid "Oct"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Original version"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "PARENTAL CONTROL"
+msgstr ""
+
+msgid "PARENTAL CONTROL PARAMETERS"
+msgstr ""
+
+msgid "PASSES"
+msgstr ""
+
+msgid "PASSWORD ERROR"
+msgstr ""
+
+msgid "PERSON SEARCH"
+msgstr ""
+
+msgid "PIN CODE"
+msgstr ""
+
+msgid "PIN CODE MANAGEMENT"
+msgstr ""
+
+msgid "PLANNED RECORDINGS"
+msgstr ""
+
+msgid "PLANNER"
+msgstr ""
+
+msgid "PLAY TUTORIAL VIDEO"
+msgstr "play tutorial video"
+
+msgid "PLEASE TRY AGAIN"
+msgstr ""
+
+msgid "POPUP"
+msgstr ""
+
+msgid "PORTUGUESE"
+msgstr ""
+
+msgid "PREFERENCES"
+msgstr ""
+
+msgid "PROGRAM BLOCKED"
+msgstr ""
+
+msgid "PROGRAM LOCKED"
+msgstr ""
+
+msgid "PROMO"
+msgstr ""
+
+msgid "PURCHASE CONFIRMATION"
+msgstr ""
+
+msgid "PURCHASE HISTORY"
+msgstr ""
+
+msgid "PURCHASE PIN ACTIVATION"
+msgstr ""
+
+msgid "PURCHASE PIN MODIFICATION"
+msgstr ""
+
+msgid "PURCHASED ITEMS"
+msgstr ""
+
+msgid ""
+"PVR functionality is not available, you are not subscribed to any PVR "
+"package, please contact Belgacom to subscribe"
+msgstr ""
+
+msgid "Password must be at least 8 characters"
+msgstr ""
+
+msgid "Password must contain at least 1 digit"
+msgstr ""
+
+msgid "Password must contain at least 4 letters"
+msgstr ""
+
+msgid "Person"
+msgstr ""
+
+msgid "Pin error"
+msgstr ""
+
+msgid ""
+"Please choose to start over from the beginning, or resume from last saved "
+"position"
+msgstr ""
+
+msgid "Please confirm your PIN code"
+msgstr ""
+
+msgid "Please confirm your personal pin code"
+msgstr ""
+
+msgid "Please confirm your system pin code"
+msgstr ""
+
+msgid "Please enter it again"
+msgstr ""
+
+msgid "Please enter the system pin code to unlock"
+msgstr ""
+
+msgid "Please enter the system pin code to unlock program"
+msgstr ""
+
+msgid "Please enter the system pin code to unlock setting"
+msgstr ""
+
+msgid "Please enter your account password to reset your Personal PIN."
+msgstr ""
+
+msgid "Please enter your new purchase pin code"
+msgstr ""
+
+msgid "Please enter your new system pin code"
+msgstr ""
+
+msgid "Please enter your purchase pin code to confirm your purchase"
+msgstr ""
+
+msgid "Please enter your system pin code"
+msgstr ""
+
+msgid "Please enter your system pin code to activate recommendations"
+msgstr ""
+
+msgid "Please enter your system pincode to unlock program"
+msgstr ""
+
+msgid ""
+"Please indicate if you want the purchase pin to be asked when renting VOD or "
+"APP's"
+msgstr ""
+
+msgid ""
+"Please make sure that your modem is turned on, connected to the phone line "
+"and that the DSL line is synchronised."
+msgstr ""
+"Make sure your modem is plugged in, connected to the phone line and the DSL "
+"light is fixed."
+
+msgid "Please reboot."
+msgstr ""
+
+msgid "Please restart."
+msgstr ""
+
+msgid "Please select one language"
+msgstr ""
+
+msgid "Please select the language in which you want to install your system"
+msgstr ""
+
+msgid "Please try again"
+msgstr ""
+
+msgid "Please try again later"
+msgstr ""
+
+msgid "Please wait"
+msgstr ""
+
+msgid "Please wait \nduring loading"
+msgstr ""
+
+msgid "Portuguese"
+msgstr ""
+
+msgid "Preferences management"
+msgstr ""
+
+msgid "Press <b>menu + OK</b> for 5 seconds to link your remote wireless"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Profile personalization"
+msgstr ""
+
+msgid "RADIO ON TV"
+msgstr ""
+
+msgid "RATE"
+msgstr ""
+
+msgid "RATE MORE PROGRAMS"
+msgstr ""
+
+#, python-brace-format
+msgid "RATE PROGRAMS : ${index}"
+msgstr ""
+
+msgid "RATING"
+msgstr ""
+
+msgid "RCU RF Pairing error"
+msgstr ""
+
+msgid "RCU RF pairing message"
+msgstr ""
+
+msgid "RCU RF pairing screen"
+msgstr ""
+
+msgid "RCU wireless"
+msgstr ""
+
+msgid "RECOMMENDATIONS"
+msgstr ""
+
+msgid "RECOMMENDATIONS DESACTIVATION"
+msgstr ""
+
+msgid "RECOMMENDED FOR US"
+msgstr ""
+
+msgid "RECORD"
+msgstr ""
+
+msgid "RECORDING SETTINGS"
+msgstr ""
+
+msgid "RECORDINGS"
+msgstr ""
+
+msgid "REMINDER"
+msgstr ""
+
+msgid "REMINDER CONFLICT"
+msgstr ""
+
+msgid "REMINDER CREATION UNKNOWN ERROR"
+msgstr ""
+
+msgid "REMINDER DELETION UNKNOWN ERROR"
+msgstr ""
+
+msgid "REMINDER UNKNOWN ERROR"
+msgstr ""
+
+msgid "REMINDERS"
+msgstr ""
+
+msgid "REMOTE CONTROL PAIRING"
+msgstr ""
+
+msgid "REMOTE SERVER ERROR"
+msgstr ""
+
+#, python-format
+msgid "RENT FOR %(price)s"
+msgstr ""
+
+msgid "RESOLUTION"
+msgstr ""
+
+msgid "RESULT"
+msgstr ""
+
+msgid "RESULTS"
+msgstr ""
+
+msgid "RESUME"
+msgstr ""
+
+msgid "Recording not possible on this channel"
+msgstr ""
+
+msgid "Renumbering"
+msgstr ""
+
+msgid "Requested media can't be displayed since no server has it."
+msgstr ""
+
+msgid "Reset pin code"
+msgstr ""
+
+msgid "SATURDAY"
+msgstr ""
+
+msgid "SEARCH"
+msgstr ""
+
+msgid "SEARCH ON TV"
+msgstr ""
+
+msgid "SEARCH ON TV SERIES"
+msgstr ""
+
+msgid "SECURITY & PRIVACY"
+msgstr ""
+
+msgid "SECURITY / PRIVACY"
+msgstr ""
+
+msgid "SETTINGS"
+msgstr ""
+
+msgid "SETTINGS BLOCKED"
+msgstr ""
+
+msgid "SHOPPING"
+msgstr ""
+
+msgid "SHOW HIDDEN PROGRAM"
+msgstr ""
+
+msgid "SHOW INFO BAR"
+msgstr ""
+
+msgid "SIMILAR"
+msgstr ""
+
+msgid "SKIP"
+msgstr ""
+
+msgid "SLEEP MODE"
+msgstr ""
+
+msgid "SNOOZE"
+msgstr ""
+
+msgid "SOLVE CONFLICT"
+msgstr ""
+
+msgid "SOLVE LATER"
+msgstr ""
+
+msgid "SOUND"
+msgstr ""
+
+msgid "SPANISH"
+msgstr ""
+
+msgid "STANDBY TIMEOUT ERROR"
+msgstr ""
+
+msgid "START"
+msgstr "start"
+
+msgid "STARTUP TIMEOUT ERROR"
+msgstr ""
+
+msgid "STB IS NOT CONNECTED AT MOMENT"
+msgstr "Your decoder is not connected."
+
+msgid "STB NAME"
+msgstr ""
+
+msgid "STB name"
+msgstr ""
+
+msgid "STB profile name"
+msgstr ""
+
+msgid "STB_1"
+msgstr ""
+
+msgid "STB_2"
+msgstr ""
+
+msgid "STB_3"
+msgstr ""
+
+msgid "STB_4"
+msgstr ""
+
+msgid "STB_5"
+msgstr ""
+
+msgid "STB_6"
+msgstr ""
+
+msgid "STOP RATING"
+msgstr ""
+
+msgid "STOP RECORDING"
+msgstr ""
+
+msgid "STORE OF THIS CHANNEL"
+msgstr ""
+
+msgid "SUBTITLES"
+msgstr ""
+
+msgid "SUNDAY"
+msgstr ""
+
+msgid "SW version"
+msgstr ""
+
+msgid "SWAP CHANNEL"
+msgstr ""
+
+msgid "SYSTEM"
+msgstr ""
+
+msgid "SYSTEM INFO"
+msgstr ""
+
+msgid "SYSTEM INFORMATION"
+msgstr ""
+
+msgid "SYSTEM PIN CODE MODIFICATION"
+msgstr ""
+
+msgid "SYSTEM PIN MODIFICATION"
+msgstr ""
+
+msgid "Sat"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Search by person"
+msgstr ""
+
+msgid "Search by title"
+msgstr ""
+
+msgid "Select the devices you want to unpair and validate"
+msgstr ""
+
+msgid "Select this recording to cancel it"
+msgstr ""
+
+msgid "Select this recording to keep it available for 30 days"
+msgstr ""
+
+msgid "Sep"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "Serial Number"
+msgstr ""
+
+msgid "Serie"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Show title of blocked content"
+msgstr ""
+
+msgid "Spanish"
+msgstr ""
+
+msgid "Sports"
+msgstr ""
+
+msgid "Sun"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "System error, try again"
+msgstr ""
+
+msgid "THE STB IS NOT CONNECTED TO THE BELGACOM"
+msgstr "no connection to the network"
+
+msgid "THE STB IS NOT CONNECTED TO YOUR MODEM"
+msgstr "no connection to the network"
+
+msgid "THURSDAY"
+msgstr ""
+
+msgid "TIMEOUT"
+msgstr "The timeout has been reached."
+
+msgid "TITLE SEARCH"
+msgstr ""
+
+msgid "TOMORROW"
+msgstr ""
+
+#, python-format
+msgid "TOTAL AMOUNT OF PURCHASE SINCE THE LAST %(days)s DAYS: "
+msgstr ""
+
+msgid "TUESDAY"
+msgstr ""
+
+msgid "TV ON DEMAND"
+msgstr ""
+
+msgid "TV REPLAY"
+msgstr ""
+
+msgid "TV SERIES"
+msgstr ""
+
+msgid "Teletext is not available on the current stream"
+msgstr ""
+
+msgid "Television"
+msgstr ""
+
+msgid "The DSL connection is not working correctly, click on more info."
+msgstr "The modem does not receive any signal. Click on more info to continue."
+
+msgid ""
+"The RCU pairing has failed. Please try again or contact the customer care. "
+"To cancel a wrong pairing, you can switch back to \"Infrared\" protocol by "
+"pressing simultaneously on MENU & 1 keys until the RCU blue light start "
+"blinking."
+msgstr ""
+
+msgid ""
+"The action you want to do will stop a recording, do you want to continue?"
+msgstr ""
+
+msgid "The disk of your decoder is full. Please try to delete recordings."
+msgstr ""
+
+msgid "The email has a problem to the left of the @"
+msgstr ""
+
+msgid "The email has a problem to the right of the @"
+msgstr ""
+
+msgid "The email is empty."
+msgstr ""
+
+#, python-format
+msgid "The following fields are empty : %s. Press to modify."
+msgstr ""
+
+msgid ""
+"The page you are trying to access is not available yet.Error: 404 not found."
+msgstr ""
+
+msgid ""
+"The password should be at least 8 characters:\n"
+"- at least 4 in \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\"\n"
+"- at least 1 in \"0123456789\"\n"
+"- the remaining 3 are free to choose"
+msgstr ""
+
+#, python-format
+msgid "The program %(title)s was skipped"
+msgstr ""
+
+msgid ""
+"The program is already scheduled for recording with the following settings"
+msgstr ""
+
+msgid "The recommendation is activated."
+msgstr ""
+
+msgid "The recommendation is activated.\n"
+msgstr ""
+
+msgid "The recording is set with your favourite settings"
+msgstr ""
+
+msgid "The recording is set with your favourites settings"
+msgstr ""
+
+msgid "The recording is set with your favourites settings."
+msgstr ""
+
+msgid ""
+"There is a problem with the registration of your decoder. Please check your "
+"line number and repeat your previous actions. If the problem is not solved, "
+"please contact the Proximus Helpdesk "
+msgstr ""
+
+msgid "There might be a problem with the modem or the wireless link."
+msgstr "There might be a problem with the modem or the wireless connection."
+
+msgid "This STB name is : "
+msgstr ""
+
+msgid ""
+"This program can not be recorded :\n"
+"No Information program"
+msgstr ""
+
+msgid ""
+"This recording is not available. Either HD is not activated on this STB, or "
+"you are no longer subscribed to this channel"
+msgstr ""
+
+msgid "This recording will be cancelled"
+msgstr ""
+
+msgid "This recording will be kept available for 30 days"
+msgstr ""
+
+msgid "This text explains the user how to check his wireless link."
+msgstr "This text explains the user how to check his wireless link."
+
+msgid ""
+"This video cannot be rented because of an unexpected error. Please try again "
+"later"
+msgstr ""
+
+msgid "This video cannot be rented because rental limit is reached."
+msgstr ""
+
+msgid "Thu"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid ""
+"To enjoy your Adele service, you have to pair your remote control with your "
+"box"
+msgstr ""
+
+msgid ""
+"To watch Netflix movies on your Proximus TV, an internet Proximus connection "
+"is required. Watching HD video content with Netflix consume approximately 3 "
+"GB of data per hour."
+msgstr ""
+
+msgid ""
+"To watch this application on your Proximus TV, an internet Proximus connection "
+"is required. Watching HD video content with this application consume approximately 3 "
+"GB of data per hour."
+msgstr ""
+
+#INF-ALP-S3
+msgid ""
+      "Please wait the app is loading"
+      "Next time app will load automatically"
+msgstr ""
+
+msgid "APP ERROR"
+msgstr ""
+
+msgid "PLEASE TRY AGAIN APP LAUNCH"
+msgstr ""
+
+msgid "Tip"
+msgstr ""
+
+msgid ""
+"Want to have instant access to all applications click"
+"then on your Proximus application button"
+"remote control"
+msgstr ""
+
+msgid "Too long"
+msgstr ""
+
+msgid ""
+"Trickplay is not available, you are not subscribed to TSTV package, please "
+"contact Belgacom to subscribe"
+msgstr ""
+
+msgid "Tue"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "UNABLE TO FIND REMINDER, CAN'T DELETE"
+msgstr ""
+
+msgid "UNDEFINED"
+msgstr ""
+
+msgid "UNPAIR A DEVICE"
+msgstr ""
+
+msgid "UNPAIR DEVICES"
+msgstr ""
+
+msgid "UNPAIRING ERROR"
+msgstr ""
+
+msgid "USERS LANGUAGE"
+msgstr ""
+
+msgid "Unable to show the program"
+msgstr ""
+
+msgid "Unable to show the recording"
+msgstr ""
+
+msgid "Undefined"
+msgstr ""
+
+msgid "Use the digits of your remote control"
+msgstr ""
+
+msgid "VALIDATE"
+msgstr ""
+
+msgid "VERDER IN HET NEDERLANDS"
+msgstr "verder in het nederlands"
+
+msgid "VIDEO DEFINITION"
+msgstr ""
+
+msgid "VIDEOS"
+msgstr ""
+
+msgid "WARNING"
+msgstr ""
+
+msgid "WEDNESDAY"
+msgstr ""
+
+msgid "WEITER IN GERMAN"
+msgstr "weiter in german"
+
+msgid "WELCOME TO NTE"
+msgstr ""
+
+msgid "WRONG SYSTEM PIN CODE"
+msgstr ""
+
+msgid ""
+"We are checking your connectivity\n"
+"We zijn uw verbinding aan het controleren\n"
+"Nous vérifions votre connectivité\n"
+"Wir prüfen lhre Konnektivität"
+msgstr ""
+"We are checking your connectivity\n"
+"We zijn uw verbinding aan het controleren\n"
+"Nous vérifions votre connectivité\n"
+"Wir prüfen lhre Konnektivität"
+
+msgid "Wed"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "What's on TV ?"
+msgstr ""
+
+msgid "Would you like doctor repair to analyze the problem ?"
+msgstr ""
+
+msgid "Wrong PIN code, please enter it again"
+msgstr ""
+
+msgid "Wrong password, last try before your account is locked "
+msgstr ""
+
+msgid "Wrong password, try again"
+msgstr ""
+
+msgid "Wrong purchase PIN code, please enter it again"
+msgstr ""
+
+msgid "Wrong purchase pin code, please try again"
+msgstr ""
+
+msgid "Wrong system PIN code, please enter it again"
+msgstr ""
+
+msgid "Wrong system pin code, please try again"
+msgstr ""
+
+msgid "YES"
+msgstr ""
+
+msgid "YOU NEED HELP"
+msgstr "I need help"
+
+msgid "YOUR SET-TOP BOX WILL AUTOMATICALLY GO INTO SLEEP MODE"
+msgstr ""
+
+msgid ""
+"You are about to leave a TV stream from the past. Are you sure you want to "
+"continue?"
+msgstr ""
+
+msgid "You are already recording this channel"
+msgstr ""
+
+msgid ""
+"You are disconnected. Please connect your box\n"
+"and try again."
+msgstr ""
+
+msgid ""
+"This Application is currently unavailable"
+"\nplease try again"
+msgstr ""
+
+msgid ""
+"Application launch failed"
+"\nplease try again"
+msgstr ""
+
+msgid ""
+"You can access different catalogues in the video store.\n"
+"This choice will not change the menu language of any user but only the "
+"content available in the catalogue"
+msgstr ""
+
+msgid "You can call our Helpdesk at number xxxxxx"
+msgstr "Call our Helpdesk at number 0800 55 800."
+
+msgid "You can change the Parental Control settings for the family."
+msgstr ""
+
+msgid "You can change the security parameters."
+msgstr ""
+
+msgid "You can change the settings."
+msgstr ""
+
+msgid "You can change the system parameters."
+msgstr ""
+
+msgid "You can manage the pin codes."
+msgstr ""
+
+msgid ""
+"You can rent this program or enjoy it with a pass\n"
+"You can have some information on this pass now."
+msgstr ""
+
+msgid "You did not subscribe to this channel"
+msgstr ""
+
+msgid ""
+"You have rated enough programs, do you want to see your recommendations ?"
+msgstr ""
+
+msgid "You have successfully changed your personal pin code."
+msgstr ""
+
+msgid ""
+"You have to activate the recommendation to be able to register one or "
+"several user(s) on your TV. By activating recommendations you will be able "
+"to receive personalized recommendations based on what you and your family "
+"have watched on TV during the past month or receive free film "
+"recommendations which correspond to your tastes and preferences.\n"
+"This way you might even discover films you didn't know existed... The more "
+"you use this service, the more closely the recommendations will match your "
+"taste. If you want you can add\n"
+"\n"
+msgstr ""
+
+msgid ""
+"You have to reset your personal pin code by entering the password of you "
+"profile."
+msgstr ""
+
+#, python-format
+msgid ""
+"You have to subscribe to %(title)s service to have access to this function."
+msgstr ""
+
+msgid "You will boot in Isolate Mode"
+msgstr ""
+"For an unknown reason your STB is not able to contact Proximus TV network. "
+"Please call our Helpdesk at number 0800 55 800"
+
+msgid "Your PIN codes don't match, please try again"
+msgstr ""
+
+msgid ""
+"Your Proximus decoder is starting up from eco mode To\n"
+"allow a quicker start-up, go to settings/system/stand-by"
+msgstr ""
+
+msgid ""
+"Your STB is probably connected to a wrong port of the modem or to an "
+"unidentified device."
+msgstr ""
+"Your decoder is probably connected to a wrong port of the modem or to an "
+"unidentified device."
+
+msgid "Your STB name is : "
+msgstr ""
+
+msgid "Your account is locked, you have to go to www.belgacom.be to reset it."
+msgstr ""
+
+msgid "Your actual rate is : "
+msgstr ""
+
+msgid "Your bandwidth does not allow you to receive HD streams."
+msgstr ""
+
+msgid "Your birthdate can't be empty"
+msgstr ""
+
+msgid "Your birthdate day is incorrect"
+msgstr ""
+
+msgid "Your birthdate month is incorrect"
+msgstr ""
+
+msgid "Your birthdate must be in the format DD/MM/YYYY"
+msgstr ""
+
+msgid "Your birthdate year is incorrect"
+msgstr ""
+
+msgid "Your contact can't be added"
+msgstr ""
+
+msgid "Your contact can't be updated"
+msgstr ""
+
+msgid ""
+"Your content has been successfully purchased. You can now enjoy watching it"
+msgstr ""
+
+msgid ""
+"Your decoder allows you to receive the HD channel and to rent HD VOD. Do you "
+"want to block the reception of the HD channel and HD VOD in the VOD "
+"catalogue ?"
+msgstr ""
+
+msgid "Your email adress in incorrect"
+msgstr ""
+
+msgid "Your firstname and your lastname can't be empty"
+msgstr ""
+
+msgid "Your input has not been recognized as a valid URL"
+msgstr ""
+
+msgid "Your new purchase PIN is confirmed"
+msgstr ""
+
+msgid "Your new system PIN is confirmed"
+msgstr ""
+
+msgid ""
+"Your personal recommendations and the existing users and the social "
+"interaction will not be anymore available. You will not be able to add "
+"movies to your bookmarks neither rate the movies you have seen. To know more "
+"about the live privacy, surf on www.belgacom.be"
+msgstr ""
+
+msgid "Your pin code has been reset."
+msgstr ""
+
+msgid "Your pincode must have exactly 4 digits"
+msgstr ""
+
+msgid ""
+"Your recording can not be scheduled because there is not enough space on the "
+"disk."
+msgstr ""
+
+msgid "Your remote control could not be paired wireless"
+msgstr ""
+
+msgid "Your remote control is now paired"
+msgstr ""
+
+msgid "Your system pin code is confirmed"
+msgstr ""
+
+msgid "[#77577] help description"
+msgstr ""
+
+msgid "[#77577] help service name"
+msgstr ""
+
+msgid "[#77577] help title"
+msgstr ""
+
+msgid "[#77577] loading"
+msgstr ""
+
+#, python-format
+msgid "[BREADCRUMB]%(weekday)s %(day)s %(month)s"
+msgstr ""
+
+msgid "[DR_REPAIR/FAILED_WPS] MESSAGE"
+msgstr ""
+
+msgid "[DR_REPAIR/FAILED_WPS] TITLE"
+msgstr ""
+
+msgid "[DR_REPAIR/NETWORK_SETUP] MESSAGE"
+msgstr ""
+
+msgid "[DR_REPAIR/NETWORK_SETUP] TITLE"
+msgstr ""
+
+#, python-format
+msgid "[DR_REPAIR/WAIT_WIFI] MESSAGE [%d seconds]"
+msgstr ""
+
+msgid "[DR_REPAIR/WAIT_WIFI] TITLE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/1] ACTION 1 (LED NOT BLINKING)"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/1] MESSAGE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/1] TITLE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/1_1] MESSAGE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/2] ACTION 1 (ALREADY_REBOOT)"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/2] ACTION 2 (LED BLINKING)"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/2] MESSAGE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/2] TITLE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/2_1] MESSAGE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_DOWN/2_1] TITLE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_FAILED] ACTION REBOOT"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_TOO_WEAK] MESSAGE"
+msgstr ""
+
+msgid "[DR_REPAIR/WIFI_TOO_WEAK] TITLE"
+msgstr ""
+
+msgid "[FI SETTINGS] stand-by warning"
+msgstr ""
+
+msgid "[FI STANDBY SETTINGS] Choose your preferred options"
+msgstr ""
+
+msgid "[FI STANDBY SETTINGS] help text <b>eco</b> mode"
+msgstr ""
+
+msgid "[FI STANDBY SETTINGS] help text <b>normal</b> mode"
+msgstr ""
+
+msgid "[FI STANDBY SETTINGS] stand-by mode"
+msgstr ""
+
+msgid "[FI STANDBY SETTINGS] title"
+msgstr ""
+
+msgid "[HOTKEY PRESS] CUTV/TSTV exit notification message"
+msgstr ""
+
+msgid "[HOTKEY PRESS] PVR exit notification message"
+msgstr ""
+
+msgid "[HOTKEY PRESS] VOD exit notification message"
+msgstr ""
+
+#, python-format
+msgid "[LTC]%d RECORDING"
+msgstr ""
+
+#, python-format
+msgid "[LTC]%d RECORDINGS"
+msgstr ""
+
+#, python-format
+msgid "[LTC]%d days"
+msgstr ""
+
+#, python-format
+msgid "[LTC]%s%%%% disk space left"
+msgstr ""
+
+#, python-format
+msgid "[LTC]%s%%%% free for long term"
+msgstr ""
+
+#, python-format
+msgid "[LTC]%s%%%% free for short term"
+msgstr ""
+
+#, python-format
+msgid ""
+"[LTC]All your recorded episodes will be kept for %(retention_months)s month "
+"after each separate recording - unless deleted earlier for other reasons"
+msgstr ""
+
+#, python-format
+msgid ""
+"[LTC]All your recorded episodes will be kept for %(retention_months)s months "
+"after each separate recording - unless deleted earlier for other reasons"
+msgstr ""
+
+msgid "[LTC]Delete for Space"
+msgstr ""
+
+msgid "[LTC]It is not possible to convert this record to a long term"
+msgstr ""
+
+msgid "[LTC]Last Chance"
+msgstr ""
+
+msgid "[LTC]Lifespan"
+msgstr ""
+
+msgid "[LTC]Local Disk"
+msgstr ""
+
+msgid "[LTC]Long Term"
+msgstr ""
+
+msgid "[LTC]Long-term"
+msgstr ""
+
+msgid "[LTC]More info"
+msgstr ""
+
+msgid "[LTC]Network"
+msgstr ""
+
+msgid "[LTC]Never show again"
+msgstr ""
+
+msgid "[LTC]Not enough space"
+msgstr ""
+
+msgid "[LTC]Not now"
+msgstr ""
+
+msgid ""
+"[LTC]One or more of your recordings will disappear in less than 7 days !"
+msgstr ""
+
+#, python-format
+msgid ""
+"[LTC]Please free up some space first. You only have %(remaining)d minutes "
+"left"
+msgstr ""
+
+#, python-format
+msgid "[LTC]Remark: Your long term space is limited to %(space_limit)s hour"
+msgstr ""
+
+#, python-format
+msgid "[LTC]Remark: Your long term space is limited to %(space_limit)s hours"
+msgstr ""
+
+msgid "[LTC]Short Term"
+msgstr ""
+
+msgid ""
+"[LTC]This channel does not allow network recordings. Click on the green "
+"button for more info."
+msgstr ""
+
+msgid ""
+"[LTC]This channel doesn't support long term conservation. Click on the green "
+"button for more info."
+msgstr ""
+
+msgid "[LTC]This channel doesn't support network recording anymore"
+msgstr ""
+
+msgid "[LTC]Watch out ! Not all episodes could be converted to long term."
+msgstr ""
+
+#, python-format
+msgid ""
+"[LTC]You can conserve a %(days)s days recording for a longer period via the "
+"detail screen for each"
+msgstr ""
+
+#, python-format
+msgid ""
+"[LTC]You have used more LT space than allowed. Please clear up some place or "
+"Proximus will remove your oldest recordings starting from "
+"%(cleanup_start_date)s"
+msgstr ""
+
+#, python-format
+msgid ""
+"[LTC]You have used more ST space than allowed. Please clear up some place or "
+"Proximus will remove your oldest recordings starting from "
+"%(cleanup_start_date)s"
+msgstr ""
+
+msgid ""
+"[LTC]Your recorded episodes will not have an expiration date - unless "
+"deleted earlier for other reasons"
+msgstr ""
+
+#, python-format
+msgid ""
+"[LTC]Your recording will be kept for %(retention_months)s month after "
+"recording - %(retention_end_date)s"
+msgstr ""
+
+#, python-format
+msgid ""
+"[LTC]Your recording will be kept for %(retention_months)s months after "
+"recording - %(retention_end_date)s"
+msgstr ""
+
+msgid "[LTC]Your recording will not have an expiration date."
+msgstr ""
+
+#, python-format
+msgid "[LTC]available during %(nb_days)s days"
+msgstr ""
+
+msgid "[LTC]confirm "
+msgstr ""
+
+msgid "[LTC]continue "
+msgstr ""
+
+msgid "[LTC]long term conservation"
+msgstr ""
+
+msgid "[LTC]save recorded episodes longer"
+msgstr ""
+
+msgid "[LTC]save recording longer"
+msgstr ""
+
+msgid "[LTC]save this episode longer"
+msgstr ""
+
+msgid "[MINI-EPG] loading message"
+msgstr ""
+
+msgid "[MINI-EPG] next label"
+msgstr ""
+
+msgid "[MINI-EPG] playing label"
+msgstr ""
+
+msgid "[MINI-EPG] previous label"
+msgstr ""
+
+msgid "[MINI-EPG] tv guide shortcut"
+msgstr ""
+
+msgid "[MOSAIC] loading message"
+msgstr ""
+
+msgid "[MyMedia] launch"
+msgstr ""
+
+msgid "[MyMedia] qr_code"
+msgstr ""
+
+msgid "[NA] please enter your line and press OK"
+msgstr ""
+
+msgid "[NETFLIX_NO_SIGNAL] message"
+msgstr ""
+
+msgid "[NETFLIX_NO_SIGNAL] title"
+msgstr ""
+
+#, python-format
+msgid "[PVR-NOTIF] Series recording %(title)s failure"
+msgstr ""
+
+#, python-format
+msgid "[PVR-NOTIF] Single recording %(title)s failure"
+msgstr ""
+
+#, python-format
+msgid "[PVR] %(count)d episode"
+msgstr ""
+
+#, python-format
+msgid "[PVR] %(count)d episodes"
+msgstr ""
+
+msgid "[PVR] cancel delete"
+msgstr ""
+
+msgid "[PVR] confirm delete"
+msgstr ""
+
+msgid "[PVR] delete episode action"
+msgstr ""
+
+msgid "[PVR] delete episode message"
+msgstr ""
+
+msgid "[PVR] delete episode title"
+msgstr ""
+
+msgid "[PVR] delete program action"
+msgstr ""
+
+msgid "[PVR] delete program message"
+msgstr ""
+
+msgid "[PVR] delete program title"
+msgstr ""
+
+msgid "[PVR] delete series action"
+msgstr ""
+
+msgid "[PVR] delete series message"
+msgstr ""
+
+msgid "[PVR] delete series title"
+msgstr ""
+
+msgid "[PVR] processing message"
+msgstr ""
+
+msgid "[PVR]episodes"
+msgstr ""
+
+msgid "[PVR]today"
+msgstr ""
+
+msgid "[SETTINGS/NETWORK/ETHERNET] long help text"
+msgstr ""
+
+msgid "[SETTINGS/NETWORK/WIFI] long help text"
+msgstr ""
+
+msgid "[SETTINGS/NETWORK] title"
+msgstr ""
+
+msgid "[STORE] applications title"
+msgstr ""
+
+msgid "[STORE] loading info"
+msgstr ""
+
+msgid "[STORE] loading message"
+msgstr ""
+
+msgid "[STORE] on demand title"
+msgstr ""
+
+msgid "[STORE] search title"
+msgstr ""
+
+msgid "[STORE] selections title"
+msgstr ""
+
+msgid "[STORE] subscriptions title"
+msgstr ""
+
+msgid ""
+"[SW_UPDATE]Please wait during loading.\n"
+"Your box will start again at the end"
+msgstr ""
+
+msgid "[SW_UPDATE]SOFTWARE DOWNLOAD"
+msgstr ""
+
+msgid "[TV] loading info"
+msgstr ""
+
+msgid "[TV] loading message"
+msgstr ""
+
+msgid "[UI STANDBY SETTINGS] help text <b>eco</b> mode"
+msgstr ""
+
+msgid "[UI STANDBY SETTINGS] help text <b>normal</b> mode"
+msgstr ""
+
+msgid "[UPSELLING] unsubscribed channel message"
+msgstr ""
+
+#, python-format
+msgid "[VOD FREE CREDITS] %(new_credits)s left message"
+msgstr ""
+
+msgid "[VOD FREE CREDITS] rent for 1 credit message"
+msgstr ""
+
+msgid "a to z"
+msgstr ""
+
+msgid "added to wishlist"
+msgstr ""
+
+msgid "all"
+msgstr ""
+
+msgid "all ages"
+msgstr ""
+
+msgid "all episodes"
+msgstr ""
+
+msgid "amazing"
+msgstr ""
+
+msgid "apr"
+msgstr ""
+
+msgid "ara"
+msgstr ""
+
+msgid "arabic"
+msgstr ""
+
+msgid "arf"
+msgstr ""
+
+msgid "audio"
+msgstr ""
+
+msgid "aug"
+msgstr ""
+
+msgid "average"
+msgstr ""
+
+msgid "average rating"
+msgstr ""
+
+msgid "back to live"
+msgstr ""
+
+msgid "bad"
+msgstr ""
+
+msgid "birthday"
+msgstr ""
+
+msgid "bookmark"
+msgstr ""
+
+msgid "box number"
+msgstr ""
+
+msgid "buy"
+msgstr ""
+
+msgid "cancel"
+msgstr ""
+
+msgid "cancel "
+msgstr ""
+
+msgid "cancel bookmark"
+msgstr ""
+
+msgid "cancel episode recording"
+msgstr ""
+
+msgid "cancel record series"
+msgstr ""
+
+msgid "cancel recording"
+msgstr ""
+
+msgid "cancel reminder"
+msgstr ""
+
+msgid "cancel series recording"
+msgstr ""
+
+msgid "channel catalog"
+msgstr ""
+
+msgid "choose your version and "
+msgstr ""
+
+msgid "choose your version and rent"
+msgstr ""
+
+msgid "choose your version and watch"
+msgstr ""
+
+msgid "city"
+msgstr ""
+
+msgid "close"
+msgstr ""
+
+msgid "configure"
+msgstr ""
+
+msgid "confirm"
+msgstr ""
+
+msgid "continue"
+msgstr ""
+
+msgid "dec"
+msgstr ""
+
+msgid "delete"
+msgstr ""
+
+msgid "delete episode"
+msgstr ""
+
+msgid "delete if disk is full"
+msgstr ""
+
+msgid "delete series"
+msgstr ""
+
+msgid "demo"
+msgstr ""
+
+msgid "disappointing"
+msgstr ""
+
+msgid "dut"
+msgstr ""
+
+msgid "dutch"
+msgstr ""
+
+msgid "email"
+msgstr ""
+
+msgid "eng"
+msgstr ""
+
+msgid "english"
+msgstr ""
+
+msgid "feb"
+msgstr ""
+
+msgid "female"
+msgstr ""
+
+msgid "first name"
+msgstr ""
+
+msgid "fre"
+msgstr ""
+
+msgid "french"
+msgstr ""
+
+msgid "fri"
+msgstr ""
+
+msgid "gender"
+msgstr ""
+
+msgid "genre"
+msgstr ""
+
+msgid "ger"
+msgstr ""
+
+msgid "german"
+msgstr ""
+
+msgid "good"
+msgstr ""
+
+msgid "gre"
+msgstr ""
+
+msgid "great"
+msgstr ""
+
+msgid "greek"
+msgstr ""
+
+msgid "grid"
+msgstr ""
+
+msgid "home"
+msgstr ""
+
+msgid "horrible"
+msgstr ""
+
+msgid "house number"
+msgstr ""
+
+#, python-format
+msgid "in %(minutes)s minutes"
+msgstr ""
+
+msgid "in library"
+msgstr ""
+
+msgid "in main hub"
+msgstr ""
+
+msgid "in store"
+msgstr ""
+
+msgid "in television"
+msgstr ""
+
+msgid "in your subscription"
+msgstr ""
+
+msgid "included in"
+msgstr ""
+
+msgid "ita"
+msgstr ""
+
+msgid "italian"
+msgstr ""
+
+msgid "jan"
+msgstr ""
+
+msgid "jul"
+msgstr ""
+
+msgid "jun"
+msgstr ""
+
+msgid "language"
+msgstr ""
+
+msgid "last chance"
+msgstr ""
+
+msgid "last name"
+msgstr ""
+
+msgid "last searches"
+msgstr ""
+
+msgid "launch"
+msgstr ""
+
+msgid "library"
+msgstr ""
+
+msgid "listen to radio live"
+msgstr ""
+
+msgid "male"
+msgstr ""
+
+msgid "mar"
+msgstr ""
+
+msgid "may"
+msgstr ""
+
+msgid "min"
+msgstr ""
+
+msgid "mins"
+msgstr ""
+
+msgid "mobile"
+msgstr ""
+
+msgid "mon"
+msgstr ""
+
+msgid "more"
+msgstr ""
+
+msgid "more information"
+msgstr ""
+
+msgid "more infos on bouquet"
+msgstr ""
+
+msgid "most rented"
+msgstr ""
+
+msgid "must see"
+msgstr ""
+
+msgid "my media description"
+msgstr ""
+
+msgid "netflix"
+msgstr ""
+
+msgid "never delete"
+msgstr ""
+
+msgid "newly added"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "no category"
+msgstr ""
+
+msgid "nov"
+msgstr ""
+
+msgid "number of episodes to be kept"
+msgstr ""
+
+msgid "oct"
+msgstr ""
+
+msgid "ok"
+msgstr ""
+
+#, python-format
+msgid "only %d day left"
+msgstr ""
+
+#, python-format
+msgid "only %d days left"
+msgstr ""
+
+#, python-format
+msgid "only %d hour left"
+msgstr ""
+
+#, python-format
+msgid "only %d hours left"
+msgstr ""
+
+msgid "options"
+msgstr ""
+
+msgid "pause"
+msgstr ""
+
+msgid "phone"
+msgstr ""
+
+msgid "play"
+msgstr ""
+
+msgid "por"
+msgstr ""
+
+msgid "portuguese"
+msgstr ""
+
+msgid "price in"
+msgstr ""
+
+msgid "rate"
+msgstr ""
+
+msgid "record"
+msgstr ""
+
+msgid "record all episodes"
+msgstr ""
+
+msgid "record option"
+msgstr ""
+
+msgid "record series"
+msgstr ""
+
+msgid "record series options"
+msgstr ""
+
+msgid "recording can not be scheduled because of a conflict"
+msgstr ""
+
+msgid "recording options"
+msgstr ""
+
+msgid "recording settings"
+msgstr ""
+
+msgid "release date"
+msgstr ""
+
+#, python-format
+msgid "remaining time %(_remaining_time)d"
+msgstr ""
+
+#, python-format
+msgid "remaining time %(_remaining_time)dh"
+msgstr ""
+
+#, python-format
+msgid "remaining time %(_remaining_time)dmin"
+msgstr ""
+
+msgid "reminder"
+msgstr ""
+
+msgid "remove"
+msgstr ""
+
+msgid "rent"
+msgstr ""
+
+msgid "return to default"
+msgstr ""
+
+msgid "sat"
+msgstr ""
+
+msgid "search"
+msgstr ""
+
+msgid "sep"
+msgstr ""
+
+msgid "series recording options"
+msgstr ""
+
+msgid "series recording settings"
+msgstr ""
+
+msgid "settings"
+msgstr ""
+
+msgid "setup wizard"
+msgstr ""
+
+#, python-format
+msgid "showcase %s infos"
+msgstr ""
+
+msgid "showcase search infos"
+msgstr ""
+
+msgid "showcase settings infos"
+msgstr ""
+
+msgid "similar"
+msgstr ""
+
+msgid "solve conflict"
+msgstr ""
+
+msgid "spa"
+msgstr ""
+
+msgid "spanish"
+msgstr ""
+
+msgid "start over"
+msgstr ""
+
+msgid "starting price"
+msgstr ""
+
+msgid "stop"
+msgstr ""
+
+msgid "stop recording"
+msgstr ""
+
+msgid "store"
+msgstr ""
+
+msgid "street"
+msgstr ""
+
+msgid "subtitle"
+msgstr ""
+
+msgid "sun"
+msgstr ""
+
+msgid "television"
+msgstr ""
+
+msgid "terms and conditions"
+msgstr ""
+
+msgid "thu"
+msgstr ""
+
+msgid "today at "
+msgstr ""
+
+msgid "trailer"
+msgstr ""
+
+msgid "try again"
+msgstr ""
+
+msgid "tue"
+msgstr ""
+
+msgid "tv replay"
+msgstr ""
+
+msgid "tv replay+"
+msgstr ""
+
+msgid "und"
+msgstr ""
+
+msgid "undefined"
+msgstr ""
+
+msgid "validate"
+msgstr ""
+
+msgid "validate "
+msgstr ""
+
+msgid "version"
+msgstr ""
+
+msgid "watch"
+msgstr ""
+
+msgid "wed"
+msgstr ""
+
+#, python-format
+msgid "will begin in %(minutes)s min."
+msgstr ""
+
+#, python-format
+msgid "with %(subtitle_code)s subtitles"
+msgstr ""
+
+msgid "with dutch subtitles"
+msgstr ""
+
+msgid "with english subtitles"
+msgstr ""
+
+msgid "with french subtitles"
+msgstr ""
+
+msgid "with german subtitles"
+msgstr ""
+
+msgid "wrong Line Number, please enter it again"
+msgstr ""
+
+msgid "yes"
+msgstr ""
+
+msgid "yesterday at "
+msgstr ""
+
+msgid "you are currently enhancing your recommendation profile"
+msgstr ""
+
+msgid "your subscription"
+msgstr ""
+
+msgid "zaplist"
+msgstr ""
+
+msgid "zip code"
+msgstr ""
+msgid ""
+"A problem occured while loading this page. Belgacom is doing its best to "
+"resolve this problem as soon as possible."
+msgstr ""
+"A problem occured while loading this page. Proximus is doing its best to "
+"resolve this problem as soon as possible."
+msgid "Contact Belgacom to subscribe to this service."
+msgstr ""
+
+msgid "fra"
+msgstr ""
+
+msgid "fra (hearing impaired)"
+msgstr ""
+
+msgid "subtitles"
+msgstr ""
+
+msgid "pvrlist.series.minavail %d hour"
+msgstr "one episode has %d hour left"
+
+msgid "pvrlist.series.minavail %d hours"
+msgstr "one episode has %d hours left"
+
+msgid "pvrlist.series.minavail %d day"
+msgstr "one episode has %d day left"
+
+msgid "pvrlist.series.minavail %d days"
+msgstr "one episode has %d days left"
+
+
+msgid "channel subtitle"
+msgstr ""
+
+msgid "channel language"
+msgstr ""
+
+msgid "channel language & subtitle"
+msgstr ""
+
+msgid "language & subtitle"
+msgstr ""
+
+msgid "language and subtitle"
+msgstr ""
+
+msgid "primary audio"
+msgstr ""
+
+msgid "primary subtitle"
+msgstr ""
+
+msgid "secondary audio"
+msgstr ""
+
+msgid "secondary subtitle"
+msgstr ""
+
+msgid "subtitle & language"
+msgstr ""
+
+msgid "subtitle and language"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "generic"
+msgstr ""
+
+msgid "UI LANGUAGE"
+msgstr ""
+
+msgid ""
+"Configure your preferred language for this channel. This setting overrules "
+"the general setting."
+msgstr ""
+
+msgid ""
+"Configure your subtitles and language. The subtitles will automatically be "
+"shown if available. These settings overrule the general settings."
+msgstr ""
+
+msgid ""
+"Configure your subtitles for this channel, or use default general settings. "
+"The subtitle will automatically be shown if available for this program."
+msgstr ""
+
+msgid ""
+"Configure your preferred language for on-demand items. This setting "
+"overrules the general setting."
+msgstr ""
+
+msgid ""
+"Configure your subtitle or use default general settings. The subtitle will "
+"automatically be shown if available for on-demand items."
+msgstr ""
+
+msgid ""
+"Configure your preferred audio and subtitle. The subtitles will "
+"automatically be shown if available. These settings overrule the general "
+"settings."
+msgstr ""
+
+msgid ""
+"Configure your general preferred audio and subtitle languages. These "
+"settings can only be applied if available"
+msgstr ""
+msgid "my pass"
+msgstr ""
+msgid "You didn't subscribe to any Pass."
+msgstr ""
+msgid "available until"
+msgstr ""
+msgid "duration"
+msgstr ""
+msgid "release year"
+msgstr ""
+msgid "action"
+msgstr ""
+msgid "adventure"
+msgstr ""
+msgid "animation"
+msgstr ""
+msgid "biography"
+msgstr ""
+msgid "classical"
+msgstr ""
+msgid "comedy"
+msgstr ""
+msgid "concert"
+msgstr ""
+msgid "crime"
+msgstr ""
+msgid "documentary"
+msgstr ""
+msgid "drama"
+msgstr ""
+msgid "erotic"
+msgstr ""
+msgid "family"
+msgstr ""
+msgid "fantasy"
+msgstr ""
+msgid "horror"
+msgstr ""
+msgid "music clips"
+msgstr ""
+msgid "musical"
+msgstr ""
+msgid "mystery"
+msgstr ""
+msgid "opera"
+msgstr ""
+msgid "pop"
+msgstr ""
+msgid "rock"
+msgstr ""
+msgid "romance"
+msgstr ""
+msgid "sci-fi"
+msgstr ""
+msgid "thriller"
+msgstr ""
+msgid "war"
+msgstr ""
+msgid "western"
+msgstr ""
+msgid "x-adult"
+msgstr ""
+msgid "more info on this episode in %d seconds"
+msgstr ""
+msgid "rent next episode"
+msgstr ""
+msgid "start next episode"
+msgstr ""
+msgid "this episode will start in %d seconds"
+msgstr ""
+msgid "Pieter_test_ZZ"
+msgstr "Pieter_test_UK"
+msgid "PVRdetail.remainAvail %d days"
+msgstr "%d days left"
+msgid "PVRdetail.remainAvail %d day"
+msgstr "%d day left"
+msgid "PVRdetail.remainAvail %d hours"
+msgstr "%d hours left"
+msgid "PVRdetail.remainAvail %d hour"
+msgstr "%d hour left"
+msgid "PVRdetail.avail.label"
+msgstr "availability"
+msgid "PVRdetail.availUntil %(exp_date)s"
+msgstr "until %(exp_date)s"
+msgid "banner.info.noTeletext"
+msgstr "This channel does not support teletext."
+
+#. CR4014 label for "available until" on VOD details screens
+#: loco:58dcab8952e1a14a348b456c
+msgid "VODdetail.availUntil.label"
+msgstr "availability"
+
+#. CR4014 value for "available until" on VOD details screens.
+#. %(end_avail)s is language neutral, showing a date in 
+#. “dd/mm/yyyy” format.
+#: loco:58dcabdc52e1a17b348b4569
+msgid "VODdetail.availUntil %(end_avail)s"
+msgstr "until %(end_avail)s"
+
+#. CR4014 label for remaining availability on VOD details screens
+#: loco:58dcac2a52e1a17c348b4569
+msgid "VODdetail.remainAvail.label"
+msgstr "availability"
+
+#. CR4014 remaining VOD availability (days) on VOD details screens
+#: loco:58dcac5b52e1a1bd348b4568
+msgid "VODdetail.remainAvail %d days"
+msgstr "only %d days left"
+
+#. CR4014 remaining availability (hours/minutes) on VOD details screens. 
+#. %(timespan)s is language neutral, showing 
+#. hours (one or two digits + “h”);
+#. hours and minutes (each has one or two digits e.g. 5h23min)
+#. or only minutes (one or two digits + "min")
+#: loco:58dcace552e1a1be348b4569
+msgid "VODdetail.remainAvail %(timespan)s"
+msgstr "only %(timespan)s left"
+
+#. CR4014 VOD "available until" indication on Series_1 category screen.
+#. %(end_avail)s is language neutral, showing a date in 
+#. “dd/mm/yyyy” format.
+#: loco:58dcad5652e1a1c8348b4569
+msgid "VODSeries_1.episode.availUntil %(end_avail)s"
+msgstr "available until %(end_avail)s"
+
+#. CR4014 VOD remaining availability (days) for Series_1 category screen.
+#: loco:58dcad9b52e1a100358b4576
+msgid "VODSeries_1.episode.remainAvail %d days"
+msgstr "only %d days left"
+
+#. CR4014 VOD remaining availability (hours/minutes) on Series_1 category screen. 
+#. %(timespan)s is language neutral, showing 
+#. hours (one or two digits + “h”);
+#. hours and minutes (each has one or two minutes e.g. 5h23min)
+#. or only minutes (one or two digits + “min”.
+#: loco:58dcadf052e1a13f358b4567
+msgid "VODSeries_1.episode.remainAvail %(timespan)s"
+msgstr "only %(timespan)s left"

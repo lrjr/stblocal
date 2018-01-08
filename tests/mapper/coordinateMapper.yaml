@@ -1,0 +1,84 @@
+# Icons on info bar
+forward_icon:
+  x : 750
+  y: 595
+  right : 840
+  bottom : 679
+  image: images/recordingsPage/ForwardIcon.png
+
+pause_icon:
+  x : 490
+  y: 595
+  right : 580
+  bottom : 679
+  image: images/recordingsPage/pauseImageDisplayed.png
+
+record_icon:
+  x : 1080
+  y : 613
+  right : 1255
+  bottom : 647
+  image: images/recordingsPage/RecordingIco.png
+
+recording_icon:
+  x : 235
+  y : 181
+  right : 980
+  bottom : 458
+  image: images/recordingsPage/RecordingIco.png
+
+ageRating_icon_Ten:
+  x : 725
+  y : 472
+  right : 848
+  bottom : 528
+  image: images/ageRatingIcons/ARTenLogo.png
+
+ageRating_logo_Ten:
+  x : 1080
+  y : 613
+  right : 1255
+  bottom : 647
+  image: images/ageRatingIcons/ARTenLogo.png
+
+ageRating_icon_Twelve:
+  x : 725
+  y : 472
+  right : 848
+  bottom : 528
+  image: images/ageRatingIcons/ARTwelveLogo.png
+
+ageRating_logo_Twelve:
+  x : 1080
+  y : 613
+  right : 1255
+  bottom : 647
+  image: images/ageRatingIcons/ARTwelveLogo.png
+
+ageRating_icon_Sixten:
+  x : 725
+  y : 472
+  right : 848
+  bottom : 528
+  image: images/ageRatingIcons/AR16Logo.png
+
+ageRating_logo_Sixteen:
+  x : 1080
+  y : 613
+  right : 1255
+  bottom : 647
+  image: images/ageRatingIcons/AR16Logo.png
+
+ageRating_icon_Eighteen:
+  x : 725
+  y : 472
+  right : 848
+  bottom : 528
+  image: images/ageRatingIcons/AR18lLogo.png
+
+ageRating_logo_Eighteen:
+  x : 1080
+  y : 613
+  right : 1255
+  bottom : 647
+  image: images/ageRatingIcons/AR18lLogo.png
